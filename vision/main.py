@@ -69,9 +69,9 @@ def upload_photo():
  #   print(legal_food)
     """
     isStart = False
-    print('Texts:')
+    # print('Texts:')
     for text in output:
-        print(text.description)
+        # print(text.description)
         # print("isStart:", isStart)
         if not (text.description == text.description.upper()):
             continue
@@ -102,12 +102,9 @@ def upload_photo():
     from spellchecker import SpellChecker
     spell = SpellChecker()
 
-    # For those long chemical names
-    spell.distance = 2
-
     # Update spell checker to use a list of processed food ingredients
     # Output generated from webscrapping in scrapper.py
-    spell.word_frequency.load_text_file('ingredient_name.txt')
+    # spell.word_frequency.load_text_file('ingredient_name.txt')
 
     # Optional: Add list of commonly autocorrected
     # Catch false positives
@@ -115,13 +112,21 @@ def upload_photo():
     spell.word_frequency.load_words(['microsoft', 'apple', 'google'])
     spell.known(['microsoft', 'google'])  # will return both now!
     """
+    """
     print('Spell checking:')
     for word, index in misspelled:
         # Simple Solution: Get the one `most likely` answer
         autocorrect = spell.correction(word)
         texts[index] = autocorrect
         print(autocorrect)
- 
+    """
+    # Reduced the runtime by being more lax on corrections.
+    spell.distance = 1
+    for word, index in misspelled:
+        # Simple Solution: Get the one `most likely` answer
+        texts[index] = spell.correction(word)
+        print(texts[index])
+
     # Formatting Ingredients to lowercase/legible and readable
     # Use list comprehension to speed up the process
     texts = [text.lower() for text in texts]
