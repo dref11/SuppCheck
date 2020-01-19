@@ -1,7 +1,7 @@
 import os
 import sys
 
-from flask import Flask, redirect, render_template, request
+from flask import Flask, redirect, render_template, request, Reponse
 
 from google.cloud import firestore
 from google.cloud import storage
@@ -154,6 +154,7 @@ def upload_photo():
     # Set the document with the data
     doc_ref.set(data)
 
+    return Response(headers={'Access-Control-Allow-Origin':'*'}
     # Redirect to the home page. Add parameter for Text recognition
     return render_template('homepage.html', texts=texts, image_public_url=image_public_url)
 
