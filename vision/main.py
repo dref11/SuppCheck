@@ -52,16 +52,22 @@ def upload_photo():
     # Add entry for Text annotation
     response = vision_client.text_detection(image=image)
     output = response.text_annotations
+
+    # Initialization for parsing
     texts = []
+    mispelled = []
     buffer = ""
     
     legal_food = {}
+    """
+    # Changed to use a SQL Query in another component
     import json
     with open('../../compounds.json', encoding='utf-8') as f:
         print('Opened DB')
         legal_food = json.load(f)
     print('Closed DB')
  #   print(legal_food)
+    """
     isStart = False
     print('Texts:')
     for text in output:
@@ -76,21 +82,44 @@ def upload_photo():
             buffer = buffer + " " + text.description
             texts.append(buffer)
             buffer = ""
+            # Check if item is mispelled
+            if texts[-1] not in legal_food:
+                # Queue the pyspellchecker, saving the index of item changed
+                mispelled.append( (texts[-1], len(list) - 1) )
             continue
         elif (isStart):
             buffer = buffer + " " + text.description
         if (text.description.find('.') >= 0) and (isStart):
             texts.append(buffer)
             break
-    
-    # Error handling
+
+    # Error handling: Output cannot be read
     if len(texts) == 0:
         print("Error: Cannot find ingredients")
         texts.append("Error: Cannot find ingredients")
 
-    # Parse it to start the text from "INGRE"-DIENTS" (with auto correct)
-    # end it at the next period and no caps next to it
+    # Apply autocorrect using the Levenshtein Distance Heuristic
+    from spellchecker import SpellChecker
+    spell = SpellChecker()
 
+    # For those long chemical names
+    spell.distance = 2
+
+    # Update spell checker to use a list of processed food ingredients
+    # Output generated from webscrapping
+    spell.word_frequency.load_text_file('/processed_terms.txt')
+
+    # Optional: Add list of commonly autocorrected
+    # Catch false positives
+    """
+    spell.word_frequency.load_words(['microsoft', 'apple', 'google'])
+    spell.known(['microsoft', 'google'])  # will return both now!
+    """
+    for word, index in misspelled:
+        # Simple Solution: Get the one `most likely` answer
+        autocorrect = spell.correction(word))
+        texts[index] = autocorrect
+ 
     # Create a Cloud Firestore client
     firestore_client = firestore.Client()
 
