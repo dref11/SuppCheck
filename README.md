@@ -1,7 +1,8 @@
 ## CruzHacks 2020
 # SuppCheck
 A mobile application to look up ingredients of various fitness supplements and products. Developed for CruzHacks 2020.
-**Technologies used**
+
+### **Technologies used**
 - Google Cloud Platform
 - Firebase for image storage
 - Firestore for parsing to Google Vision API
