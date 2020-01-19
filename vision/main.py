@@ -55,7 +55,7 @@ def upload_photo():
 
     # Initialization for parsing
     texts = []
-    mispelled = []
+    misspelled = []
     buffer = ""
     
     legal_food = {}
@@ -71,8 +71,8 @@ def upload_photo():
     isStart = False
     print('Texts:')
     for text in output:
-        print(text.description, (text.description == text.description.upper()) and (text.description.find(':') >= 0))
-        print("isStart:", isStart)
+        print(text.description)
+        # print("isStart:", isStart)
         if not (text.description == text.description.upper()):
             continue
         if (text.description == text.description.upper()) and (text.description.find(':') >= 0) and (not isStart):
@@ -85,7 +85,7 @@ def upload_photo():
             # Check if item is mispelled
             if texts[-1] not in legal_food:
                 # Queue the pyspellchecker, saving the index of item changed
-                mispelled.append( (texts[-1], len(list) - 1) )
+                misspelled.append( (texts[-1], len(texts) - 1) )
             continue
         elif (isStart):
             buffer = buffer + " " + text.description
@@ -107,7 +107,7 @@ def upload_photo():
 
     # Update spell checker to use a list of processed food ingredients
     # Output generated from webscrapping in scrapper.py
-    spell.word_frequency.load_text_file('/ingredient_name.txt')
+    spell.word_frequency.load_text_file('ingredient_name.txt')
 
     # Optional: Add list of commonly autocorrected
     # Catch false positives
@@ -115,11 +115,20 @@ def upload_photo():
     spell.word_frequency.load_words(['microsoft', 'apple', 'google'])
     spell.known(['microsoft', 'google'])  # will return both now!
     """
+    print('Spell checking:')
     for word, index in misspelled:
         # Simple Solution: Get the one `most likely` answer
-        autocorrect = spell.correction(word))
+        autocorrect = spell.correction(word)
         texts[index] = autocorrect
+        print(autocorrect)
  
+    # Formatting Ingredients to lowercase/legible and readable
+    # Use list comprehension to speed up the process
+    texts = [text.lower() for text in texts]
+    """
+    for text in texts:
+        text = text.lower()
+    """
     # Create a Cloud Firestore client
     firestore_client = firestore.Client()
 
@@ -134,7 +143,7 @@ def upload_photo():
     # Construct key/value pairs with data
     data = {
         u'image_public_url': image_public_url,
-        u'top_label': texts[0]
+        u'top_label': texts
     }
 
     # Set the document with the data
