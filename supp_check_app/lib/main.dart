@@ -1,6 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:supp_check_app/cameraPre.dart';
 import 'package:supp_check_app/takePicture.dart';
+import 'openCamera.dart';
 
 void main() => runApp(MyApp());
 

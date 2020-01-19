@@ -23,13 +23,14 @@ Future<void> main() async{
   );
 }
 
+
 class TakePictureScreen extends StatefulWidget{
   final CameraDescription camera;
 
   const TakePictureScreen({
-    Key key,
-    @required this.camera,
-  }) : super(key: key);
+    //Key key,
+    @required this.camera});
+  //}) : super(key: key);
 
   @override
   TakePictureScreenState createState() => TakePictureScreenState();
@@ -61,19 +62,17 @@ class TakePictureScreenState extends State<TakePictureScreen>{
   Widget build(BuildContext context){
     return Scaffold(
       appBar: AppBar(
-        title: Text(
-          'Take A Picture'
-        ),
-        backgroundColor: Theme.of(context).primaryColor,
+        title: Text('Take A Picture'),
+        backgroundColor: Theme.of(context).primaryColor
       ),
       body: FutureBuilder<void>(
         future: _initialzeControllerFuture,
         builder: (context, snapshot){
-          if(snapshot.connectionState == ConnectionState.done){
+          //if(snapshot.connectionState == ConnectionState.done){
             return CameraPreview(_controller);
-          } else {
-            return Center(child: CircularProgressIndicator());
-          }
+          //} else {
+          //  return Center(child: CircularProgressIndicator());
+
         },
       ),
       floatingActionButton: FloatingActionButton(
