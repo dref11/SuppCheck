@@ -106,8 +106,8 @@ def upload_photo():
     spell.distance = 2
 
     # Update spell checker to use a list of processed food ingredients
-    # Output generated from webscrapping
-    spell.word_frequency.load_text_file('/processed_terms.txt')
+    # Output generated from webscrapping in scrapper.py
+    spell.word_frequency.load_text_file('/ingredient_name.txt')
 
     # Optional: Add list of commonly autocorrected
     # Catch false positives
