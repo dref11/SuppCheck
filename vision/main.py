@@ -82,6 +82,11 @@ def upload_photo():
         if (text.description.find('.') >= 0) and (isStart):
             texts.append(buffer)
             break
+    
+    # Error handling
+    if len(texts) == 0:
+        print("Error: Cannot find ingredients")
+        texts.append("Error: Cannot find ingredients")
 
     # Parse it to start the text from "INGRE"-DIENTS" (with auto correct)
     # end it at the next period and no caps next to it
