@@ -1,23 +1,23 @@
 import mysql.connector
 
+import codecs
+
+
 mydb =mysql.connector.connect(
 	host = "127.0.0.1",
 	user = "root",
 	passwd = "suppcheck",
-	database = "cruzhack",
+	database = "ingredient",
 	auth_plugin = "mysql_native_password"
 	)
 
-def query(*args):
-	# mycursor = mydb.cursor()
+# def query(*args):
+mycursor = mydb.cursor()
 
-	# mycursor.execute("select list_name from foods")
+mycursor.execute("select name from compounds")
 
-	# for i in mycursor:
-	# 	print(i)
-	for i in args:
-		print(i)
-
+for i in mycursor:
+	print(i)
 
 
 # conn = pyodbc.connection(
