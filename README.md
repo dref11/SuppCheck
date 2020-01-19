@@ -10,3 +10,4 @@ A mobile application to look up ingredients of various fitness supplements and p
 - FoodDB for information regarding food or chemical ingredient
 - Web crawling for correctly spelled terms
 - Microsoft Azure to host MySQL database
+- Android Studios for Mobile App Development
