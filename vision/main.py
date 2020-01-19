@@ -25,6 +25,7 @@ def homepage():
 
 @app.route('/upload_photo', methods=['GET', 'POST'])
 def upload_photo():
+
     # Create a Cloud Storage client.
     storage_client = storage.Client()
 
@@ -134,6 +135,22 @@ def upload_photo():
     for text in texts:
         text = text.lower()
     """
+    
+    # Generate how healthy the product is
+    count = 0
+    db = []
+    for i in open("chemical_compounds.txt").readlines():
+        db.append(i.lower())
+        print(i.lower())
+
+    for text in texts:
+        for chemical in db:
+            # Text contains the chemical
+            if chemical in text:
+                print(discover)
+                count = count + 1
+    print("Found", count, "number of chemicals")
+
     # Create a Cloud Firestore client
     firestore_client = firestore.Client()
 
@@ -154,6 +171,10 @@ def upload_photo():
     # Set the document with the data
     doc_ref.set(data)
 
+    """
+    # Return a json version of the data
+    return data
+    """
     # Redirect to the home page. Add parameter for Text recognition
     return render_template('homepage.html', texts=texts, image_public_url=image_public_url)
 

@@ -1,22 +1,22 @@
 import mysql.connector
-
+import os
 mydb =mysql.connector.connect(
-	host = "127.0.0.1",
+	host = "24.6.91.55",
 	user = "root",
 	passwd = "suppcheck",
 	database = "cruzhack",
 	auth_plugin = "mysql_native_password"
 	)
 
-def query(*args):
-	# mycursor = mydb.cursor()
+# def query(*args):
+mycursor = mydb.cursor()
 
-	# mycursor.execute("select list_name from foods")
+mycursor.execute("select list_name from foods")
 
-	# for i in mycursor:
-	# 	print(i)
-	for i in args:
-		print(i)
+for i in mycursor:
+    print(i)
+	#for i in args:
+		#print(i)
 
 
 

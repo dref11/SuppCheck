@@ -1,0 +1,2778 @@
+﻿Mulberrofuran P
+Cyanocobalamin
+Cyanidin 3-(6''-acetyl-galactoside)
+Cyanidin 3-(6''-succinyl-glucoside)
+Pelargonidin 3-(6''-succinyl-glucoside)
+Cyanidin 3-O-(6''-acetyl-arabinoside)
+Petunidin 3-O-(6''-acetyl-galactoside)
+Peonidin 3-(6''-acetyl-galactoside)
+Malvidin 3-(6''-acetyl-galactoside)
+Pelargonidin 3-arabinoside
+Peonidin 3-(6''-p-coumaroyl-glucoside)
+Delphinidin 3-xyloside
+Petunidin 3-(6''-p-coumaroyl-glucoside)
+p-Coumaroyl vitisin A
+Pinotin A
+Malvidin 3-(6''-caffeoyl-glucoside)
+Peonidin 3-(6''-malonyl-glucoside)
+Cyanidin 3-O-dimalonyl-laminaribioside
+Cyanidin 3-O-(6''-malonyl-arabinoside)
+Cyanidin 3-O-(6''-malonyl-3''-glucosyl-glucoside)
+Cyanidin 3-O-(2"-xylosyl-6"-(6"'-caffeoyl-glucosyl)-galactoside)
+Cyanidin 3-O-(2"-xylosyl-6"-(6"'-sinapoyl-glucosyl)-galactoside)
+Cyanidin 3-O-(2"-xylosyl-6"-(6"'-feruloyl-glucosyl)-galactoside)
+Delphinidin 3-(6''-malonylglucoside)
+Luteolinidin 3-glucoside
+Delphinidin 3-feruloylglucoside
+Luteolinidin
+Pigment A aglycone
+Pinotin A aglycone
+Butein
+Phloretin xylosyl-galactoside
+Phloretin-2'-O-(2''-O-xylosylglucoside)
+3-Hydroxyphloretin 2'-O-xylosyl-glucoside
+3-Hydroxyphloretin 2'-O-glucoside
+3-Hydroxyphloretin
+Isoneotheaflavin 3-O-gallate
+ent-Gallocatechin 3-gallate
+ent-Catechin 3-gallate
+Isoneotheaflavin
+Procyanidin tetramer T4
+Procyanidin trimer EEC
+Prodelphinidin trimer GC-GC-C
+Prodelphinidin trimer GC-C-C
+Prodelphinidin trimer C-GC-C
+Epicatechin-(2alpha->7,4alpha->8)-epicatechin 3-galactoside
+6-Geranylnaringenin
+Luteolin 7-O-diglucuronide
+Apigenin 6-C-arabinoside 8-C-glucoside
+Apigenin 6-C-galactoside 8-C-arabinoside
+Apigenin 7-O-glucuronide
+Luteolin 7-malonylglucoside
+Luteolin 6-C-glucoside 8-C-arabinoside
+Luteolin 7-O-(2-apiosyl-4-glucosyl-6-malonyl)-glucoside
+Apigenin 6-C-glucoside 8-C-arabinoside
+Luteolin 7-O-(2-apiosyl-6-malonyl)-glucoside
+Jaceosidin
+Apigenin 7-O-(6''-malonyl-apiosyl-glucoside)
+Chrysoeriol 7-O-(6''-malonyl-apiosyl-glucoside)
+Apigenin 7-O-diglucuronide
+Quercetin 3-O-xylosyl-glucuronide
+Quercetin 3-O-glucosyl-xyloside
+Quercetin 3-O-acetyl-rhamnoside
+Kaempferol 3-O-glucosyl-rhamnosyl-galactoside
+Kaempferol 3-O-glucosyl-rhamnosyl-glucoside
+Quercetin 3-O-glucosyl-rhamnosyl-galactoside
+Quercetin 3-O-glucosyl-rhamnosyl-glucoside
+Quercetin 3-O-rhamnosyl-galactoside
+Kaempferol 3-O-arabinoside
+Quercetin 3,4',7-triglucoside
+3,7-Dimethylquercetin
+Quercetin 3-O-diglucoside
+Kaempferol 3-sophorotrioside 7-sophoroside
+Kaempferol 3-O-sinapoyl-caffeoyl-sophoroside 7-O-glucoside
+Kaempferol 3-O-feruloyl-caffeoyl-sophoroside 7-O-glucoside
+Kaempferol 3-feruloylsophorotrioside
+Kaempferol 3-O-sinapoyl-sophoroside 7-O-glucoside
+Kaempferol 3-O-caffeoyl-sophoroside 7-O-glucoside
+Kaempferol 3-O-feruloyl-sophoroside 7-O-glucoside
+Kaempferol 3-O-(6"-malonyl-glucoside)
+Quercetin 3-O-(6"-malonyl-glucoside) 7-O-glucoside
+Kaempferol 3-O-acetyl-glucoside
+Quercetin 3-O-xylosyl-rutinoside
+Kaempferol 3-O-xylosyl-rutinoside
+Quercetin 3-O-(6''-acetyl-glucoside)
+Kaempferol 3-O-(6''-acetyl-galactoside) 7-O-rhamnoside
+Kaempferol 3-O-(2''-rhamnosyl-galactoside) 7-O-rhamnoside
+Kaempferol 3-O-(2''-rhamnosyl-6''-acetyl-galactoside) 7-O-rhamnoside
+Quercetin 3-O-rhamnosyl-(1->2)-rhamnosyl-(1->6)-glucoside
+Kaempferol 3-O-rhamnosyl-rhamnosyl-glucoside
+Kaempferol 3,7,4'-O-triglucoside
+5,4'-Dihydroxy-3,3'-dimethoxy-6:7-methylenedioxyflavone
+3-Methoxysinensetin
+Ellagic acid glucoside
+3,4-Dimethoxybenzoic acid
+Ellagic acid arabinoside
+Ellagic acid acetyl-xyloside
+Ellagic acid acetyl-arabinoside
+Gallic acid 3-O-gallate
+Valoneic acid dilactone
+2,6-Dimethoxybenzoic acid
+Sanguisorbic acid dilactone
+Galloyl glucose
+Lambertianin C
+5-p-Coumaroylquinic acid
+4-p-Coumaroylquinic acid
+Feruloyl glucose
+p-Coumaroylquinic acid
+2,5-di-S-Glutathionyl caftaric acid
+Caffeic acid ethyl ester
+2-S-Glutathionyl caftaric acid
+5-Feruloylquinic acid
+4-Feruloylquinic acid
+3-Feruloylquinic acid
+5-Sinapoylquinic acid
+4-Sinapoylquinic acid
+3-Sinapoylquinic acid
+Ferulic acid 4-glucoside
+p-Coumaroyl tartaric acid glucosidic ester
+p-Coumaric acid ethyl ester
+Trans-Caffeoyl tartaric acid
+Cis-Caffeoyl tartaric acid
+Hydroxycaffeic acid
+5-5'-Dehydrodiferulic acid
+5-8'-Dehydrodiferulic acid
+1,2-Diferuloylgentiobiose
+1-Sinapoyl-2,2'-diferuloylgentiobiose
+1,2,2'-Triferuloylgentiobiose
+8-4'-Dehydrodiferulic acid
+8-8'-Dehydrodiferulic acid
+5-8'-Benzofuran dehydrodiferulic acid
+Cis-5-Caffeoylquinic acid
+3,4-Diferuloylquinic acid
+3,5-Diferuloylquinic acid
+1,3-Dicaffeoylquinic acid
+Dicaffeoylquinic acid
+b-D-fructosyl-a-D-(6-O-(E))-feruloylglucoside
+Avenanthramide 1p
+Avenanthramide 1f
+Avenanthramide 2p
+Avenanthramide 2c
+Avenanthramide 2f
+Avenanthramide 1c
+Avenanthramide 1s
+Avenanthramide 2s
+p-Coumaroyl glycolic acid
+3-Caffeoyl-1,5-quinolactone
+4-Caffeoyl-1,5-quinolactone
+3-Feruloyl-1,5-quinolactone
+4-Feruloyl-1,5-quinolactone
+3,4-Dicaffeoyl-1,5-quinolactone
+3-p-Coumaroyl-1,5-quinolactone
+4-p-Coumaroyl-1,5-quinolactone
+Caffeoyl aspartic acid
+p-Coumaroyl aspartic acid
+Caffeoyl tyrosine
+p-Coumaroyl 3-hydroxytyrosine
+Avenanthramide A2
+Avenanthramide K
+4-8',5'-5''-Dehydrotriferulic acid
+24-Methylcholestanol ferulate
+24-Methylcholesterol ferulate
+24-Methyllathosterol ferulate
+Schottenol 3-ferulate
+24-Methylenecholestanol ferulate
+3,4-Dihydroxyphenylacetic acid
+Homoveratric acid
+Methoxyphenylacetic acid
+delta-Viniferin
+Sesamolinol 4'-O-b-D-glucosyl (1->6)-O-b-D-glucoside
+7-Hydroxymatairesinol
+Isohydroxymatairesinol
+Secoisolariciresinol-sesquilignan
+Cyclolariciresinol
+7-Oxomatairesinol
+Todolactol A
+Conidendrin
+7-Hydroxysecoisolariciresinol
+Lariciresinol-sesquilignan
+Episesaminol
+4-Vinylsyringol
+Mellein
+2-Methoxy-5-prop-1-enylphenol
+p-Anisidine
+1,4-Naphtoquinone
+5,5',6,6'-Tetrahydroxy-3,3'-biindolyl
+1-Phenyl-6,7-dihydroxy-isochroman
+1-(3-methoxy-4-hydroxy)-phenyl-6,7-dihydroxy-isochroman
+Hydroxytyrosol acetate
+p-HPEA-AC
+3,4-DHPEA-EA
+p-HPEA-EDA
+p-HPEA-EA
+Oleuropein-aglycone
+Ligstroside-aglycone
+5-Pentacosenylresorcinol
+5-Tricosenylresorcinol
+3-Methylcatechol
+4-Ethylphenol
+3'-Methoxyacetophenone
+2,3-Dihydroxy-1-guaiacylpropanone
+Nuatigenin
+Estradiol
+4',7-Dihydroxy-2',5-dimethoxyisoflavone
+Hexamethylquercetagetin
+Diosgenin 3-[glucosyl-(1->4)-rhamnosyl-(1->4)-[rhamnosyl-(1->2)]-glucoside]
+Dioscin
+Collettiside I
+Deltonin
+Yamogenin
+Ophiopogonin C'
+Erythritol
+Canescein
+Prenyl acetate
+Phytic acid
+Asparagoside B
+6-Hydroxykaempferol
+(3beta,5alpha)-Ergosta-7,23-dien-3-ol
+Angelicolide
+L-Malic acid caffeate
+1-Methoxyphaseollidin
+(3beta,5alpha,6alpha)-Cholest-8-ene-3,6-diol
+Asparagoside F
+1-Hydroxy-3-methoxy-10-methylacridone
+Citpressine I
+Citpressine II
+3,6-Ditigloyloxytropan-7-ol
+Gravacridonediol
+Gravacridonediol methyl ether
+Gravacridonediol glucoside
+Gravacridonolchlorine
+Gravacridonetriol
+Gravacridonetriol glucoside
+5-Methoxynoracronycine
+Amphibine H
+Nummularine B
+Mucronine D
+Nummularine A
+Oxoglaucine
+Mauritine A
+Ceanothine B
+Ceanothine C
+Ceanothine D
+Ceanothine E
+beta1-Tomatidine
+Blepharin
+Murrayenol
+Geranyl glucoside
+Geranyl apiosyl-glucoside
+Geranyl arabinofuranosyl-glucoside
+Geranyl rhamnosyl-glucoside
+Geranyl 3-methylbutanoate
+Geranyl hexanoate
+Neryl glucoside
+Neryl arabinofuranosyl-glucoside
+Neryl rhamnosyl-glucoside
+Neryl isovalerate
+(E)-Ribosylzeatin arabinosyl-(1->4)-[galactosyl-(1->2)-galactosyl-(1->3)-arabinoyl-(1->3)]-galactoside
+Galactosyl 4-hydroxyproline
+4-Hydroxyproline galactoside
+N-Phenylacetylaspartic acid
+N-Feruloylglycyl-L-phenylalanine
+Betavulgaroside I
+5Z-Octenyl acetate
+(R)-1,3-Octanediol
+Isorheagenine
+Alkaloid RC
+(R)-1-O-b-D-glucopyranosyl-1,3-octanediol
+Glaucamine
+Salsolinol
+(S)-Salsolinol
+7-Acetoxy-2-methylisoflavone
+Moupinamide
+Tyramine
+N-[2-(4-Hydroxyphenyl)ethyl]benzamide
+N-Methyltyramine
+Sanguinarine
+Saxitoxin
+Neosaxitoxin
+O-Methylcorypalline
+alpha-Solanigrine
+gamma2-Solamarine
+2'-Hydroxydaidzein
+Solacauline
+(E,E)-Trichostachine
+L-Tyrosine ethyl ester hydrochloride
+L-Tyrosine
+Papaverine
+N-Methylporphyroxine
+Piperine
+Chavicine
+Isochavicine
+Isopiperine
+Theophylline
+(-)-Thebaine
+Theobromine
+Sinapine
+xi-1-(3,4-Dihydroxyphenyl)-1,2-ethanediol
+6-O-Methylcodeine
+Genomorphine
+Chlorogenoquinone
+L-Saccharopine
+4-Hydroxycitrulline
+L-Stachydrine
+Subtilisins
+L-Valine
+Indicaxanthin
+Isodesmosine
+L-3-Aminodihydro-2(3H)-furanone
+Cucurbic acid
+(+)-threo-2-Amino-3,4-dihydroxybutanoic acid
+L-Furosine
+N-Jasmonoylisoleucine
+Transferrins
+L-Lysine
+L-Lysine hydrochloride
+N6-Acetyl-L-lysine
+1-(3,4-Dimethoxyphenyl)ethanone
+L-N-(3-Carboxypropyl)glutamine
+gamma-L-Glutamyl-S-(2-carboxy-1-propyl)cysteinylglycine
+Homoglutathione
+L-L-Homoglutathione
+N-gamma-L-Glutamyl-L-isoleucine
+N-gamma-L-Glutamyl-L-valine
+Glycine
+L-cis-3-Amino-2-pyrrolidinecarboxylic acid
+L-Nicotianine
+(3-Nitroamino)alanine
+Ochratoxin A
+Ochratoxin C
+Ochratoxin B
+L-2-Amino-3-(oxalylamino)propanoic acid
+Oxypinnatanine
+(S)-a-Amino-2,5-dihydro-5-oxo-4-isoxazolepropanoic acid N2-glucoside
+Neobetanin
+Amaranthin
+Betanidin
+Betanin
+Turicine
+2-Acetyl-3-ethylpyrazine
+Prebetanin
+Isobetanidin
+4-Hydroxyproline betaine
+Bis-gamma-glutamylcysteinylbis-beta-alanine
+L-2-Amino-4-(aminooxy)butanoic acid
+L-Canavanine
+(S)-alpha-Amino-4-carboxy-3-furanpropanoic acid
+S-Carboxymethyl-L-cysteine
+NG,NG-Dimethyl-L-arginine
+NG,N'G-Dimethyl-L-arginine
+L-Targinine
+L-Carnosine
+Cycloalliin
+S-Cysteinosuccinic acid
+Syringic acid
+Thaumatin
+Desmosine
+Glycylglycylglycine
+(3b,4b,5a,24Z)-4-Methylstigmasta-7,24(28)-dien-3-ol
+N-Acetyldjenkolic acid
+L-Histidine trimethylbetaine
+Homoserine
+L-Homoserine
+O-Acetylhomoserine
+L-4-Hydroxyglutamine
+L-cis-4-(Hydroxymethyl)-2-pyrrolidinecarboxylic acid
+L-trans-5-Hydroxy-2-piperidinecarboxylic acid
+L-cis-5-Hydroxy-2-piperidinecarboxylic acid
+L-Hypoglycin A
+Hypoglycin B
+Malformin
+Methionine sulfoximine
+(3b,5a,22x,25S)-Furostane-22-methoxy-3,26-diol 3-[rhamnosyl-(1->2)-[glucosyl-(1->3)]-glucoside] 26-glucoside
+S-Methylcysteine sulfoxide
+(S)C(S)S-S-Methylcysteine sulfoxide
+L-2-Amino-4-methylenepentanedioic acid
+L-4-Methylene-2-pyrrolidinecarboxylic acid
+(å±)-4-Methylene-2-pyrrolidinecarboxylic acid
+L-trans-4-Methyl-2-pyrrolidinecarboxylic acid
+Lysozyme
+Penmacric acid
+Nopalinic acid
+L-Phosphoarginine
+(2S,4S)-Pinnatanine
+Pipecolic acid
+L-Pipecolic acid
+Deoxyalliin
+trans-S-(1-Propenyl)-L-cysteine
+Isoalliin
+S-Propylcysteine sulfoxide
+(R)C(R)S-S-Propylcysteine sulfoxide
+(R)C(S)S-S-Propylcysteine sulfoxide
+L-Pyridosine
+2-Pyrrolidineacetic acid
+L-Agaridoxin
+L-Alanine
+(å±)-Alanine
+Alliin
+Lysinoalanine
+DL-Ornithino-L-alanine
+2-Amino-4-hydroxy-3-methylpentanoic acid
+(2R,3R,4R)-2-Amino-4-hydroxy-3-methylpentanoic acid
+L-Ribo-2-Amino-4-hydroxy-3-methylpentanoic acid
+Aspergillomarasmine A
+alpha-Tocopherol
+gamma-Glutaminyl-4-hydroxybenzene
+L-DOPA
+L-DOPA 3'-glucoside
+Aspartame
+L-Proline
+Carnitine
+Levocarnitine
+Maduramicin
+Pyridoxine
+Pyridoxine hydrochloride
+Ginkgotoxin
+Amyl 2-furoate
+Xanthotoxol
+Oryzarol
+Xanthoxylol
+Xerocomic acid
+Zapotin
+(E)-2,4,4'-Trihydroxychalcone
+Gentisein
+Asteltoxin
+Erosnin
+Eugenitol
+Eugenitin
+Dolichin B
+Dolichin A
+Eupatilin
+Isodillapiole
+Isocycloheterophyllin
+Isoeugenitol
+Isoeugenitin
+Gingerdiones
+[6]-Dehydrogingerdione
+[10]-Gingerdione
+[10]-Dehydrogingerdione
+Isolimocitrol
+Isomangiferin
+Isoorientin 2''-glucoside
+Isorhamnetin 3-dirhamnoside
+Isorhamnetin
+Isorhamnetin 3-galactoside
+Isorhamnetin 7-glucoside
+Isorhamnetin 3-sophoroside 7-glucoside
+Isorhamnetin 7-rhamnoside
+Isorhamnetin 3-rutinoside
+Isosakuranetin
+Isosakuranetin 7-glucoside
+Didymin
+Isotheaflavin
+Isovitexin
+Isovitexin 2''-glucoside
+(+)-Isoxanthochymol
+(-)-Isoxanthochymol
+Integrin
+Allyl propionate
+Farnesiferol A
+Farnesiferol B
+(-)-Farnesiferol C
+Isoferreirin
+Fisetin
+3,3',7-Trihydroxy-4'-methoxyflavone
+Formononetin 7-(6''-malonylglucoside)
+Formononetin 7-(6''-methylmalonylglucoside)
+Trigoforin
+Fukiic acid
+Dimethyl fukiic acid
+3'-Methoxyfukiic acid
+Fukinolic acid
+Kaempferol
+Kaempferol 3-glucuronide
+Kaempferol 7-rhamnofuranoside
+Kaempferol 3-arabinoside
+Kaempferol 3-(3'',6''-diacetyl-2'',4''-di-p-coumaroylrhamnoside)
+Cannithrene 2
+Marindinin
+Kuwanon A
+Kuwanon B
+Mulberrin
+Laccaic acid D
+Garcinone A
+Garcinone B
+Garcinone C
+4',5-Dihydroxy-7-methoxy-6-methylflavone
+Myricatin
+Licochalcone A
+Licoricone
+Limocitrin
+Limocitrin 3-glucoside
+Liqcoumarin
+Liquiritigenin
+Liquiritin
+Galangin
+3-Methylgalangin
+Medicarpin
+Neohesperidose
+Raffinose
+Gallic acid
+Methyl gallate
+5-Hydroxy-7-(4-hydroxy-3-methoxyphenyl)-1-phenyl-3-heptanone
+7-(4-Hydroxy-3-methoxyphenyl)-5-methoxy-1-phenyl-3-heptanone
+Sanguiin H6
+Melilotocarpan B
+Gemin D
+6''-O-Acetylgenistin
+6''-Malonylgenistin
+Glabrene
+(S)-4',7-Dihydroxy-3',8-diprenylflavanone
+3-Hydroxyglabrol
+Glabrone
+Glyzarin
+Grevilline A
+(S)-Naringenin
+Safflor Yellow A
+Delphinidin 3-[6''-(4'''-p-coumaroylrhamnosyl)glucoside] 5-glucoside
+Neodiospyrin
+Xenognosin A
+Nobiletin
+(+)-Zeylenol
+Clusin
+(+)-Ligballinol
+(-)-Ligballinol
+Eriodictyol
+Eriodictyol 7-glucoside
+3'-Hydroxy-4',5,6,7,8-pentamethoxyflavone
+Pebrellin
+4'-Hydroxy-3',5,6,7,8-pentamethoxyflavone
+Diosmetin 7-rutinoside
+Eleutheroside B1
+Calycanthoside
+Isofraxidin
+Amitenone
+Glycitein
+1-Undecene
+Undecanoic acid
+Ethyl undecanoate
+Carrotatoxin
+(E)-2-(2,4-Hexadiynylidene)-1,6-dioxaspiro[4.5]dec-3-ene
+Glycerol trieicosanoate
+Glycerol 1,2-di-(9Z,12Z-octadecadienoate) 3-octadecanoate
+4,5-Dihydro-2-methylthiazole
+Glycerol tribenzoate
+Dihydroisophorol
+(R)-Synephrine
+Choline
+Choline chloride
+(4-Hydroxybenzoyl)choline
+Hesperaline
+Pimpinellidine
+(+)-Calycanthine
+N-gamma-L-Glutamyl-L-phenylalanine
+N-gamma-L-Glutamyl-L-tyrosine
+3-Acetyl-2,5-dimethylfuran
+Bufotenine O-glucoside
+Demethoxyfumitremorgin C
+Isopulegone caffeate
+Hydroxy-alpha-sanshool
+N5-Hexanoylspermidine
+Dibutyl disulfide
+Dichlorodifluoromethane
+1,2-Dichloroethane
+Diethyl disulfide
+Diethyl malonate
+2,5-Diethyltetrahydrofuran
+(-)-trans-2,5-Diethyltetrahydrofuran
+(+)-cis-5,6-Dihydro-5-hydroxy-4-methoxy-6-(2-phenylethyl)-2H-pyran-2-one
+2,3-Dihydroxy-2-methylbutanoic acid
+6-Hydroxydaidzein 4'-glucoside
+Diisopropyl disulfide
+Diisopropyl sulfide
+3-Methyl-2-butenoic acid
+Dimethyl carbonate
+(2E,4E)-2,4-Hexadienoic acid
+Methyl sorbate
+Lycopersiconol
+2-Pyrrolidinone
+Gossypol
+3-O-Methylcoumestrol
+Methyl 10-undecenoate
+Octadecylamine
+Lansiol
+Sodium calcium edetate
+Edetate disodium
+Edetate trisodium
+Edetate sodium
+Triacetin
+Trichloroethylene
+Ethanol
+Ethylene
+2-Methylpropane
+Glycerol
+Nonane
+Octane
+Butane
+Chloroform
+Cyclohexane
+Metenamine
+Glutaral
+Dimethyl sulfoxide
+Hexane
+Furocoumarinic acid glucoside
+4-Phenyl-2-butenal
+Pentane
+2-Aminoethanol
+Lubiminol
+Ginkgolide J
+Lucyoside O
+Stigmastentriol
+Tiglic acid
+Angelic acid
+5-Methyl-2(3H)-furanone
+Ascladiol
+Asparagusic acid
+Asparagusic acid syn-S-oxide
+Asparagusic acid anti-S-oxide
+9-Azabicyclo[3.3.1]nonan-3-one
+(å±)-Conen
+(S)-2-Azetidinecarboxylic acid
+Diazenedicarboxamide
+Glucoobtusifolin
+Isobetanin
+L-Asparagine
+Macrophorin D
+Arabinopyranobiose
+Tricetin
+Lucyoside Q
+Isopetasoside
+Torvoside C
+Torvoside D
+3-O-Protocatechuoylceanothic acid
+5alpha-Ethoxy-6beta-hydroxy-5,6-dihydrophysalin B
+1,2,3,5-Tetrachloro-4-methoxybenzene
+Chlorthal
+2'',6''-Digalloyliriflophenone 3-C-glucoside
+2'',3'',6''-Trigalloyliriflophenone 3-C-glucoside
+Chalconaringenin
+Oleyl alcohol
+Phenylmethanethiol
+2-Methylbenzenethiol
+4-Methylbenzoic acid
+2-Methylbenzaldehyde
+3-Methylbenzaldehyde
+4-Methylbenzaldehyde
+(4-Methylphenyl)acetaldehyde
+3-(4-Methylphenyl)-2-propenal
+1,8,8-Trimethyl-2-oxabicyclo[3.2.1]octan-3-one
+p-Mentha-1,3,5,8-tetraene
+2,4,6-Tribromophenol
+1,3,5-Trichloro-2-methoxybenzene
+Phloroacetophenone
+Xanthoxylin
+2',6'-Dihydroxy-4'-methoxyacetophenone
+Domesticoside
+2,4,5-Trimethoxybenzaldehyde
+Gallaldehyde
+3,5-Dihydroxy-4-methoxybenzaldehyde
+4-Hydroxy-3,5-dimethoxybenzaldehyde
+2,4,6-Trihydroxybenzoic acid
+Methyl 2,4,6-trihydroxybenzoate
+Phlorisobutyrophenone 2-glucoside
+2-(4-Methylphenyl)-2-propanol
+1-(1-Methoxy-1-methylethyl)-4-methylbenzene
+3,6-Epoxy-5,5',6,6'-tetrahydro-b,b-carotene-3',5,5',6'-tetrol
+Erinacine G
+Erinacine E
+2,4'-Dihydroxyacetophenone
+2',3'-Dihydroxyacetophenone
+2',4'-Dihydroxyacetophenone
+2',6'-Dihydroxyacetophenone
+3',4'-Dihydroxyacetophenone
+Zierin
+3',5'-Dihydroxyacetophenone
+Vanillin
+Vanillin acetate
+Vanilloside
+Ethyl vanillin
+2,4-Dihydroxybenzoic acid
+2-Hydroxy-4-methoxybenzoic acid
+Gentisic acid
+2,6-Dihydroxybenzoic acid
+Vanillic acid
+Protocatechuic acid
+3,5-Dihydroxybenzoic acid
+Phloretic acid
+2,3,6-Trimethylphenol
+Eremopetasinorol
+Eremopetasinorone A
+Eremopetasinorone B
+Epoxyeremopetasinorol
+1,4-Dimethoxybenzene
+1,3-Dimethoxybenzene
+2-Methoxy-4-vinylphenol
+2,6-Dimethoxy-1,4-benzoquinone
+2-Chloro-1,3-dimethoxy-5-methylbenzene
+2,6-Di-tert-butyl-1,4-benzoquinone
+Diosmetin
+Zapotinin
+Hibiscitrin
+1,8-Dihydroxy-3-hydroxymethylanthraquinone 8-O-b-D-glucoside
+2,6-Dimethoxy-4-methylphenol
+3-p-Coumaroylquinic acid
+(+)-Asarinin
+Cyclovariegatin
+2-Hydroxy-6-pentadecylbenzoic acid
+Melizame
+4-Ethoxy-3-methoxybenzaldehyde
+4-Methoxybenzaldehyde
+3,6-Dimethoxy-4-phenanthrenol
+2-Ethoxynaphthalene
+2-Naphthalenethiol
+Octacosanal
+2-Naphthol
+Wine lactone
+Erinacine F
+Sodium lactate
+Calcium lactate
+Salicylic acid
+S-Methyl benzenecarbothioate
+Hexacosanal
+Hydroquinone
+Mequinol
+Cinnamyl alcohol
+trans-Cinnamyl alcohol
+Cinnamyl acetate
+trans-Cinnamyl benzoate
+2-Methyloctacosane
+Erythrosine
+Phenol
+Acetylsalicylic acid
+(R)-Norepinephrine
+Anthranilic acid
+Methyl anthranilate
+1-(2,6,6-Trimethyl-2-cyclohexen-1-yl)-1,6-heptadien-3-one
+(å±)-Leucine
+2-Amino-3-methylimidazo[4,5-f]quinoline
+2-Amino-3,4-dimethylimidazo[4,5-f]quinoline
+5,6,7,8-Tetrahydro-2,4-dimethylquinoline
+5,6,7,8-Tetrahydro-4-methylquinoline
+(R)-2,4-Dihydroxy-7-methoxy-2H-1,4-benzoxazin-3(4H)-one 2-glucoside
+Maritimetin
+Thiabendazole
+Thiazole
+4,5-Dihydro-1-benzoxepin-3(2H)-one
+2-(2-Thienyl)furan
+Liquid thiophthene
+2-Thiophenecarboxaldehyde
+Thiophene
+Methyl thiophene-2-carboxylate
+2-Thiophenethiol
+2,3,5-Trimethylfuran
+1,2,5-Trimethyl-1H-pyrrole
+Tryptamine
+Saccharin
+Saccharin sodium
+Saccharin calcium
+Urocanic acid
+2-Vinylthiophene
+5-Ethyl-2,3-dimethylpyrazine
+2-Ethyl-5-methylfuran
+5-Ethyl-2-methylpyridine
+2-Ethyl-4-methylthiazole
+4-Ethyl-2-methylthiazole
+5-Ethyl-4-methylthiazole
+2-Ethyl-5-methylthiophene
+3-Ethylpyridine
+5-Ethynyl-5'-(1-propynyl)-2,2'-bithiophene
+1H-Imidazole-1-acetic acid
+1H-Indole-3-acetic acid
+1H-Indole-3-carboxaldehyde
+Indole-beta-carboxylic acid
+Indole-3-methyl acetate
+1H-Indole-3-acetamide
+3-(1H-Indol-3-yl)-2-propenoic acid
+1H-Indole-3-methanol
+1H-Indole-3-methanamine
+1H-Indole-3-propanoic acid
+2-Isopropyl-3,5-dimethoxy-6-methylpyrazine
+3-Isopropyl-2-methoxy-5-methylpyrazine
+9H-Carbazole-3-carboxaldehyde
+Methyl 3-carbazolecarboxylate
+Fenbendazole
+3-Amino-1,4-dimethyl-5H-pyrido[4,3-b]indole
+2-Amino-5-phenylpyridine
+2-Aminodipyrido[1,2-a:3',2'-d]imidazole
+2-Amino-6-methyldipyrido[1,2-a:3',2'-d]imidazole
+2-Furancarboxylic acid
+Methyl 2-furoate
+Menadione
+Naphthalene
+Dantron
+Frusemide
+Furazolidone
+Procyanidin B1
+3-Thiocyanato-1-propene
+(1R,2S,3R)-2-Acetyl-4(5)-(1,2,3,4-tetrahydroxybutyl)imidazole
+4-Hydroxybenzeneacetonitrile
+Skimmin
+Herniarin
+2-Acetyl-1-ethylpyrrole
+1,1-Diethoxy-2-hexene
+Ethyl (å±)-2-methyl-4-pentenoate
+Methyl (å±)-2-Methylbutanoate
+Pentyl pentanoate
+Allyl nonanoate
+N-Acetyl-L-serine
+Propylene glycol stearate
+9-Pentadecenoic acid
+(3S,7E,9R)-4,7-Megastigmadiene-3,9-diol 9-[apiosyl-(1->6)-glucoside]
+Saringosterol 3-glucoside
+Isofucosterol glucoside
+Isoeruboside B
+7,8-Dihydrovomifoliol 9-[rhamnosyl-(1->6)-glucoside]
+7,8-Dihydrovomifoliol 9-[apiosyl-(1->6)-glucoside]
+6e,9e-Dihydroxy-4,7E-megastigmadien-3-one 9-glucoside
+6e,9e-Dihydroxy-4,7E-megastigmadien-3-one 9-[apiosyl-(1->6)-glucoside]
+7-Hydroxy-6-(methoxyacetyl)-2,2-dimethyl-2H-1-benzopyran
+Vinyl caffeate
+Dhurrin 6'-glucoside
+Cymorcin monoglucoside
+Furaneol 4-(6-malonylglucoside)
+2-O-Protocatechuoylalphitolic acid
+2alpha-Hydroxypyracrenic acid
+54-Deoxyciguatoxin
+6-Epi-7-isocucurbic acid glucoside
+Mono-trans-p-coumaroylmesotartaric acid
+Unshuoside A
+Protoisoeruboside B
+10-Oxo-11-octadecen-13-olide
+Kanzonol W
+Kanzonol V
+Kanzonol U
+Viniferal
+Dulciol D
+Dieporeticenin
+Dieporeticanin
+(R)-2',4',7-Trihydroxy-3',8-diprenylisoflavan
+Isochestanin
+Montecristin
+(Z)-13-Oxo-9-octadecenoic acid
+(Z)-15-Oxo-11-eicosenoic acid
+Diisodityrosine
+(E)-2-Tetracosenoic acid
+Mangiferic acid
+8-Dotriacontenoic acid
+1-Cyclohexyl-11-heneicosanone
+Pentasine
+Momordol
+Eugeniflorin D2
+Nicotinic acid
+Methyl nicotinate
+Ethyl nicotinate
+[Nitrilotris(methylene)]trisphosphonic acid
+Etidronic acid
+Castavinol
+Phytosulfokine a
+Phytosulfokine b
+Ethyl hexadecanoate
+Quercetin 8-C-(2''-rhamnosylglucoside)
+5'-Hydroxycastavinol
+5'-Methoxycastavinol
+Doristerol
+Cardanoldiene
+Ethyl salicylate
+Benzyl salicylate
+2-Phenylethyl beta-D-glucopyranoside
+2,6-Diisopropyl-3-methylphenol
+2,5-Diisopropyl-4-methylphenol
+2,5-Diisopropyl-3-methylphenol
+2,4-Diisopropyl-5-methylphenol
+2,4-Diisopropyl-3-methylphenol
+2,3-Diisopropyl-5-methylphenol
+4-Aminobenzoic acid
+Hallacridone
+Junosidine
+Dihydrodioscorine
+Bervulcine
+Vulracine
+Norchalciporyl propionate
+L-Malic acid
+N-Caffeoyltryptophan
+Ractopamine hydrochloride
+8-Carboxymethyldihydrochelerythrine
+Cyclodopa glucoside
+Harmalan
+Tetrahydroharmol
+1,2,3,4-Tetrahydro-2-methyl-b-carboline
+Nb-Acetyl-Nb-methyltryptamine
+Harmalol
+Ascorbigen
+Vulgaxanthin I
+Vulgaxanthin II
+Betalamic acid
+Oleracins
+Muricine
+Glycyrrhizin
+Glyciram
+Cellulase
+Chymopapain
+Papain
+Maxepa
+Nonivamide
+7,7',8,8'-Tetrahydro-beta,beta-carotene
+(-)-trans-Carveol glucoside
+(+)-trans-Carveol glucoside
+D-Citronellol glucoside
+L-Citronellol glucoside
+27-Deoxy-5alpha-cyprinol
+Methylgingerol
+1,2-Epoxy-1,2,7,7',8,8',11,12-octahydro-psi,psi-carotene
+1,2-Epoxy-1,2,7,7',8,8',11',12'-octahydro-psi,psi-carotene
+Cochineal Red A
+(R)-alpha-Terpinyl glucoside
+(S)-alpha-Terpinyl glucoside
+Cryptochrome
+Lansimide 3
+Methyl (xi)-3-nonenoate
+alpha-Amylase
+Bromelains
+Pancreatin
+Trypsin
+Enrofloxacin
+Palmidrol
+(E)-2-Octenoic acid
+(S)-N-Acetylmethionine
+beta-Galactosidase
+Cyromazine
+(3beta,22E)-26,27-Dinorergosta-5,22-dien-3-ol
+2-Amino-3,8-dimethyl-3H-imidazo[4,5-f]quinoxaline
+Umbelliferone
+3'-Prenylnaringenin
+Isoelemicin
+Mangostanol
+Hemiariensin
+3'-Hydroxydihydroformononetin
+Sanguiin H4
+gamma-Asarone
+(S)-Spinacine
+Squamolone
+Tigloidine
+Paucine
+Pancrelipase
+Myricetin 3-(3'',4''-diacetylrhamnoside)
+(S)-[6]-Gingerol
+D-Tagatose
+D-Tartaric acid
+Chinese tannin
+Tartaric acid
+L-Tartaric acid
+alpha,alpha-Trehalose
+Neotrehalose
+D-Glucaric acid
+Sakebiose
+Sambubiose
+2-C-Methyl-1,4-erythrono-D-lactone
+Sorbitan laurate
+Sorbitan oleate
+Sorbitan palmitate
+Sorbitan stearate
+Sorbitan trioleate
+Sorbitan tristearate
+L-Sorbose
+Starch acetate
+Starch
+Asiaticoside B
+Amylose
+Sucrose
+Sucrose octaacetate
+Xylan
+Xylitol
+Xylobiose
+D-Xylose
+D-erythro-Eritadenine
+Chiro-Inositol
+Cryptoxanthin diepoxide
+Serotinose
+Inulin
+Inulobiose
+Kojibiose
+Calcium lactobionate
+Lactose
+Lucuminoside
+Galactinol
+L-Galacto-2-heptulose
+3-O-beta-D-Galactopyranosyl-D-galactose
+Galabiose
+4-O-beta-D-Galactopyranosyl-D-galactose
+Kaempferol 3-feruloylapioside
+3,5-Dicaffeoyl-4-succinoylquinic acid
+Kanzonol T
+Artonin T
+Capsianoside C
+Capsianoside E
+Apigenin 5-[4''-rhamnosyl-6''-acetylglucoside]
+alpha-D-Galactopyranose 1-dihydrogen phosphate
+Galacturonic acid
+D-Galacturonic acid
+Gein
+Gentiotriose
+1-O-alpha-D-Glucopyranosyl-D-mannitol
+N-Glycolylneuraminic acid
+Graminin B
+Disodium guanylate
+Gynocardin
+Tetraphyllin B
+(-)-Quinic acid
+D-4-O-Methyl-myo-inositol
+4-O-Methyl-myo-inositol
+2-O-(4-O-Methyl-a-D-glucopyranuronosyl)-D-xylose
+Arabinofuranobiose
+Maltulose
+Isodulcitol
+beta-D-3-Ribofuranosyluric acid
+Neokestose
+Galactotriose
+Xanthan
+Carrageenan
+Cellulose
+Cellulose acetate
+Methyl cellulose
+Betadex
+gamma-Cyclodextrin
+Deoxyeritadenine
+Dextrantriose
+6-O-Glucosylmaltose
+Maltobionic acid
+Maltohexaose
+Maltopentaose
+Maltose
+beta-D-Fructofuranosyl alpha-D-glucopyranosyl-(1->4)-D-glucopyranoside
+Maltotetraose
+Maltotriose
+Mannan
+D-Arabino-hexos-2-ulose
+Mannobiose
+D-1-Deoxy-erythro-hexo-2,3-diulose
+D-Manno-2-heptulose
+D-Mannose
+Melezitose
+Melibiose
+Galactaric acid
+(2S,4R,5S)-Muscarine
+Panose
+Acaciabiuronic acid
+N-Acetylneuraminic acid
+6-Amino-9H-purine-9-propanoic acid
+Adenosine 5'-diphosphate glucose
+Alginic acid
+Acadesine 5'-monophosphate
+D-Apiose
+beta-D-Apiofuranose
+Arabinan
+Gum arabic
+Arabinose
+D-Arabinose
+Isomaltose
+Arbutin
+Ascorbalamic acid
+Ascorbic acid
+L-Ascorbic acid
+Calcium ascorbate
+Sodium ascorbate
+Scleroglucan
+Pangamic acid
+Lentinan
+Punicafolin
+45,46,47-Trinoryessotoxin
+D-altro-D-manno-Heptose
+D-erythro-D-galacto-octitol
+D-glycero-L-galacto-Octulose
+D-erythro-L-galacto-Nonulose
+Nebularine
+Squamocin K
+Asitribin
+Asiminenin A
+Asimilobin
+Annomuricin A
+Annoglaucin
+Muricatin C
+Muricatin A
+Fujiglucon
+Methyl beta-D-glucopyranoside
+Asiminenin B
+Annomuricin B
+Annomuricin C
+Muricatocin B
+Muricatocin C
+Muricatocin A
+Muricatin B
+Troxerutin
+Ethyl beta-D-glucopyranoside
+Squamostanal A
+Squamosten A
+Coriandrone E
+Coriandrone D
+Simonin I
+Simonin V
+Simonin II
+Simonin III
+Simonin IV
+Avenoleic acid
+2'-Hydroxy-3,4',5',7,8-pentamethoxyflavone
+Hexyl acetate
+1-Isomangostin
+Epomusenin A
+Epomusenin B
+1-Isomangostin hydrate
+13,15-Triacontanedione
+2,3,4-Trimethyltriacontane
+2-O-Methylxylose
+(+)-11-Hydroxy-9-triacontanone
+Bis(2-furanylmethyl) disulfide
+Dulciol B
+Dulciol A
+Dulciol C
+Tetrahydropentoxyline
+2-Methyl-3-nonacosanone
+25-Methyl-1-hexacosanol
+15-Hentriacontanol
+9-Hentriacontanone
+10,12-Heptacosanedione
+Glabrin A
+12-Hydroxy-8,10-octadecadienoic acid
+Cycloartomunoxanthone
+Bissulfine
+2-Acetyl-3-methylpyrazine
+Nopol
+(-)-Nopol
+(E)-3-Hexen-1-ol
+Austalide B
+Austalide A
+2,2,7,7-Tetramethyl-1,6-dioxaspiro[4.4]non-3-ene
+2,2,7,7-Tetramethyl-1,6-dioxaspiro[4.4]nona-3,8-diene
+gamma-Tocotrienol
+d-Tocotrienol
+3,6-Dihydro-4-(4-methyl-3-pentenyl)-1,2-dithiin
+Glucoconvallatoxoloside
+(1alpha,3beta,20S,22R,24S,25S)-Pubescenin
+Scutigeral
+alpha1-Sitosterol
+Stigmastanol
+(3beta,5alpha,24S)-Stigmasta-7,25-dien-3-ol
+(3beta,5alpha,6beta,24R)-Stigmastane-3,5,6-triol
+7-Oxostigmasterol
+Valerenic acid
+Vitamin K2
+Elenolide
+4'-Methoxymucidin
+Withanolide B
+Fucosterol
+Isofucosterol
+Ikshusterol
+7-Epiikshusterol
+Angeolide
+Neogitogenin
+Sarsasapogenin
+1-Mercapto-2-propanone
+Isohumulone A
+Isohumulone B
+3-Methylbutanoic acid
+Methyl 3-methylbutanoate
+Ethyl isovalerate
+Isopentyl isopentanoate
+(å±)-Sulcatol
+(å±)-6-Methyl-5-hepten-2-yl acetate
+Euglobal Ia1
+Euglobal Ia2
+Euglobal Ib
+Euglobal Ic
+Euglobal IIa
+Euglobal IIb
+Euglobal IVa
+Euglobal IIc
+Euglobal IVb
+Euglobal VII
+Euglobal V
+Jasmolone
+Melongoside O
+Lupulone
+Hydroxycitronellol
+Ginkgolide M
+Isoaustin
+Neriantogenin
+Isohumulinone A
+Isohumulinone B
+Asparagoside A
+Gitonin
+Neotigogenin
+Uttronin A
+Smilagenin
+Dexamethasone
+Melongoside P
+Asparagoside H
+Butyl propionate
+Neogrifolin
+Amasterol
+Ostreasterol
+Taraxacoside
+Isopropyl propionate
+Boviquinone 4
+1H-Indole-3-acetonitrile
+Ethyl propionate
+Propyl propionate
+Methyl 3-phenylpropanoate
+1,1-Dimethoxyethane
+Methyl propionate
+Benzyl propionate
+2-Hydroxy-2-methylbutanedioic acid
+Cohulupone
+Colupulone
+Australigenin
+Convallamarogenin
+Convallamaroside
+Dimoracin
+Chalcomoracin
+(S)-3-Octanol
+Albafuran A
+Albafuran B
+Albafuran C
+Albanin F
+Albanin G
+Cheirotoxol
+(3beta,4alpha,5alpha)-4-Methyl-8(14)-cholesten-3-ol
+25-Methyl-24-methylenecholesterol
+4,14-Dimethylergosta-8,25-dien-3-ol
+Biflorin
+Wampetin
+Carissanol
+5-(2,3-Dihydroxy-3-methylbutyl)-4-(3,4-epoxy-4-methylpentanoyl)-3,4-dihydroxy-2-isopentanoyl-2-cyclopenten-1-one
+(å±)-Hydroxycitronellol
+Diosbulbinoside D
+Pubescenol
+Synephrine
+Shikimic acid 3-phosphate
+Gibberellin A84
+Dihydrozeatin
+2-Methylthio-N6-(delta2-isopentenyl)adenosine
+2-Methylthioribosyl-trans-zeatin
+5-Hydroxyindole-3-acetic acid
+Indole-3-butyric acid
+alpha-N-Carbomethoxyacetyl-4-chloro-D-tryptophan
+alpha-N-Carboethoxyacetyl-4-chloro-D-tryptophan
+2-Phosphoglycerate
+4-O-(Indole-3-acetyl)-D-glucopyranose
+5-Hydroxyglucobrassicin
+5-Methoxyglucobrassicin
+(+)-Bottrospicatol
+Castasterone
+(+/-)-alpha-Thujene
+3,24-Diepicastasterone
+28-Norcastasterone
+2-Deoxy-28-homocastasterone
+2-Deoxy-25-Methyldolichosterone
+3-epi-2-Deoxy-25-methyldolichosterone
+3-epi-6-Deoxocastasterone
+6-Deoxo-28-homo-dolichosterone
+6-Deoxo-25-methyldolichosterone
+23-O-beta-D-Glucopyranosyl-25-methyldolichosterone
+23-O-beta-D-Glucopyranosyl-2-epi-25-methyldolichosterone
+Methyl epijasmonate
+Parasorbic acid
+2-Thioxothiazolidine-4-carboxylic acid
+Methyl pheophorbide a
+OPC-4:0
+OPC-6:0
+(12S,13S)-EOD
+13(S)-Hydroperoxylinolenic acid
+12-oxo-PDA
+3-Oxo-2-(2-entenyl)cyclopentaneoctanoic acid
+5-HETE
+12-HETE
+15-HETE
+4-Hydroxy-2E-nonenal
+Ayapin
+(-)-Pinoresinol
+(+)-Secoisolariciresinol
+(-)-Arctigenin
+(+)-Pinoresinolin
+(-)-Arctiin
+2-Hydroxypseudobaptigenin
+(3R)-Sophorol
+Medioresinol
+(-)-Olivil
+Lappaol A
+Lappaol C
+Phosphoenolpyruvic acid
+(+)-Bornyl diphosphate
+(+)-Camphene
+(+)-trans-Sabinene hydrate
+(+)-Sabinone
+cis-Sabinene hydrate
+(+)-trans-Sabinol
+(3R)-Linalyl diphosphate
+2-Hydroxycampholonic acid
+alpha-Campholonic acid
+6-Oxocamphor
+cis-beta-Ocimene
+Geranyl diphosphate
+Isoketocamphoric acid
+trans-beta-Ocimene
+9beta-Pimara-7,15-diene
+ent-Copalyl diphosphate
+ent-Sandaracopimaradiene
+Stemar-13-ene
+syn-Copalyl diphosphate
+Butin
+Sakuranetin
+6-Methylscutellarein
+beta-D-Glucosamine
+D-Arabitol
+2-Carboxyarabinitol 1-phosphate
+Glutaric acid
+Glyoxylic acid
+Oxalacetic acid
+Hentriacontane
+Hentriacontane-14,16-dione
+Hexacosan-1-ol
+Triacontan-1-ol
+Tritriacontane
+Dehydrosafynol
+Eutypine
+(Z)-3,5-Hexadienyl butyrate
+Pinolidoxin
+12-Hydroxyjasmonic acid glucoside
+L-Homoarginine
+L-Homocysteine
+(+)-gamma-Hydroxy-L-homoarginine
+Cadaverine
+Putrescine
+Glucolepidiin
+Glucoputranjivin
+3' 5'-cyclic AMP
+Glutathione
+Phaseolotoxin
+Cucumopine
+Dimboa glucoside
+Glaucine
+Liriodenine
+Xylopine
+Lycopsamine
+2,8-Dihydroxy-3,4,7-trimethoxy-dibenzofuran
+Alloimperatorin
+Peucedanin
+4,8,5'-Trimethylpsoralen
+Anhydroglycinol
+1,2-Benzenediol
+Coniferyl aldehyde
+1,5-Dicaffeoylquinic acid
+Sinapaldehyde
+Aucuparin
+Lapachenole
+(+)-Rotundifolone
+Verbenalin
+alpha-Copaene
+(S)-(+)-Curcumene
+Ipomoeamarone
+alpha-Ylangene
+Arctiopicrin
+8-Deoxylactucin
+Geranylgeraniol
+Oryzalexin A
+Theasaponin
+Officinalisnin I
+Betulinic acid
+beta-Carotene 5,6-epoxide
+Lactucaxanthin
+7,4'-Dihydroxyflavone
+Cirsimaritin
+Tetramethoxyluteolin
+Eupatorin
+Apigenin 7-(6''-malonylglucoside)
+Luteolin 7-(2''-apiosylglucoside)
+5,7-Dihydroxy-3,6-dimethoxyflavone
+Artemetin
+3,3',4',7,8-Pentamethylgossypetin
+5,3',4'-Trihydroxy-3-methoxy-6,7-methylenedioxyflavone
+Isorhamnetin 3-vicianoside
+5,3',4'-Trihydroxy-3-methoxy-6,7-methylenedioxyflavone 4'-glucuronide
+5,4'-Dihydroxy-3,3'-dimethoxy-6,7-methylenedioxyflavone 4'-glucuronide
+Kaempferol 3-(2'''-(E)-caffeylsophoroside)-7-glucoside
+Quercetin 3-(6''''-p-coumarylsophorotrioside)
+Quercetin 3-(6''''-caffeylsophorotrioside)
+Quercetin 3-(6''''-ferulylsophorotrioside)
+Quercetin 3-(6''''-sinapylsophorotrioside)
+3'-Deoxyderhamnosylmaysin
+Carlinoside
+Isoswertisin 4'-rhamnoside
+Derhamnosylmaysin
+3'-O-Methylderhamnosylmaysin
+6,8-Di-C-beta-D-arabinopyranosylapigenin
+Apigeninidin
+Cyanidin 3-O-(2"-xylosyl-6"-glucosyl-galactoside)
+Apigeninidin 5-(5''-caffeylarabinoside)
+Pelargonidin 3-p-coumarylglucoside
+Cyanidin 3-(6''-acetylglucoside)
+Cyanidin 3-(3''-malonylglucoside)
+Cyanidin 3-(3'',6''-dimalonylglucoside)
+Cyanidin 3-(6''-malonyllaminaribioside)
+Cyanidin 3-O-(2"-xylosyl-6"-(6"'-p-hydroxybenzoyl-glucosyl)-galactoside)
+Cyanidin 3-O-(2"-xylosyl-6"-(6"'-p-coumaroyl-glucosyl)-galactoside)
+Cyanidin 3-(6''-p-coumarylsophoroside) 5-glucoside
+Cyanidin 3-(6''-caffeylsophoroside) 5-glucoside
+Cyanidin 3-[6''-(4-glucosyl-p-coumaryl)sophoroside] 5-glucoside
+Cyanidin 3-(6'',6'''-dicaffeylsophoroside) 5-glucoside
+Cyanidin 3-(6''-caffeyl-6'''-ferulylsophoroside) 5-glucoside
+Peonidin 3-(6''-acetyl-glucoside)
+Peonidin 3-(6''-caffeoyl-glucoside)
+Peonidin acetyl 3,5-diglucoside
+Peonidin 3-(6''-malonyl-glucoside) 5-glucoside
+Peonidin 3-feruloyl-diglucoside 5-glucoside
+Peonidin 3-caffeoyl-rutinoside 5-glucoside
+Delphinidin 3-caffeoylglucoside
+Dimalonylawobanin
+Petunidin 3-(6''-acetylglucoside)
+Petunidin 3-(4'''-p-coumaroyl-rutinoside)
+Malvidin 3-(6''-p-coumarylglucoside)
+Malvidin 3-(6''-p-caffeyglucoside)
+Malvidin 3-(6''-p-coumarylglucoside) 5-dimalonylglucoside
+Cerasin
+Cerasidin
+4-Hydroxyderricin
+Xanthoangelol D
+Xanthoangelol E
+Xanthoangelol
+Xanthoangelol B
+Xanthoangelol C
+Xanthosine
+Gibberellin A116
+Malonyl CoA
+Cinnamoyl-CoA
+4-Coumaroyl-CoA
+Glucoalyssin
+8-Methylsulfinyloctyl glucosinolate
+16-Hydroxy-hexadecanoic acid
+Sucrose 6-phosphate
+Allantoin
+D-Erythrose 4-phosphate
+D-Ribose 5-phosphate
+5-Hydroxyisourate
+2-Oxo-4-hydroxy-4-carboxy-5-ureidoimidazole
+Dihydroxyacetone phosphate
+D-Glyceraldehyde 3-phosphate
+7-Methylxanthosine
+5-Methylthiopentylglucosinolate
+4-Metyl-5-(beta-hydroxyethyl)thiazole phosphate
+4-Amino-5-hydroxymethyl-2-methylpyrimidine diphosphate
+n-Hexyl glucosinolate
+2-Hydroxyethyl glucosinolate
+4-Methylsulfonyl-3-butenyl glucosinolate
+5-Oxoheptyl glucosinolate
+Aromadendrin 3-galactoside
+Gallocatechin 3'-gallate
+Epigallocatechin 3-caffeate
+Catechin-(4alpha->8)-gallocatechin-(4alpha->8)-gallocatechin
+Epicatechin-(4beta->6)-catechin 3-gallate
+Procyanidin B2 3-gallate
+Catechin-(4alpha->8)-epicatechin 3'-gallate
+Epicatechin-(4beta->8)-catechin 3-gallate
+Epicatechin-(4beta->8)-epicatechin 3'-gallate
+[Epicatechin-(4beta->8)]2-epicatechin 3'''-gallate
+Epicatechin-(4beta->8)-epicatechin-(4beta->8)-catechin 3''-gallate
+ent-Epiafzelechin-(2alpha->7,4alpha->8)-catechin
+Epicatechin-(2beta->7,4beta->8)-epicatechin-(4beta->8)-epicatechin-(4beta->6)-catechin
+Epicatechin-(2beta->7,4beta->8)-[epicatechin-(4beta->8)]2-catechin
+ent-Epicatechin-(2alpha->7,4alpha->8)-epicatechin 3-arabinoside
+ent-Epicatechin-(2alpha->7,4alpha->8)-epicatechin 3-galactoside
+Eugenigrandin A
+5-O-Methylgenistein
+Anhydropisatin
+7,8,2',4'-Tetrahydroxyisoflavone
+(+)-Dihydrowighteone
+3'-Dimethylallylkievitone
+2-Prenyl-6alpha-hydroxyphaseollidin
+Demethyltexasin 4'-O-glucoside
+Hastatoside
+2-Isopropylcyclopentanone
+(R)-Linden ether
+(1R,2R,4R,5S)-(+)-p-Menthane-2,5-diol
+p-Menth-4(8)-en-3-ol
+5-Carboxypyranocyanidin 3-O-beta-glucopyranoside
+5-Carboxypyranocyanidin 3-O-(6''-O-malonyl-beta-glucopyranoside)
+cis-Resveratrol-3,4'-O-beta-diglucoside
+trans-p-Feruloyl-beta-D-glucopyranoside
+trans-p-Ferulyl alcohol 4-O-[6-(2-methyl-3-hydroxypropionyl)] glucopyranoside
+Luteolin 7-O-(2-apiofuranosyl-4-glucopyranosyl-6-malonyl)glucopyranoside
+(-)-alpha-Curcumene
+Arctiol
+Luteolin 7-glucoside 3'-glucuronide
+Kaempferol 3-alpha-D-arabinopyranoside
+Kaempferol 3-rhamnosyl-(1->3)-rhamnosyl-(1->6)-glucoside
+Kaempferol 7-(3G-glucosylgentiobioside)
+Kaempferol 3-(2''-(E)-feruloylgalactosyl-(1->4)-glucoside)
+Kaempferol 3-rhamnosyl-(1->3)(4'''-acetylrhamnosyl)(1->6)-glucoside
+Kaempferol 3-glucosyl-(1->2)-(6''-acetylgalactoside)-7-glucoside
+Quercetin 3-O-alpha-D-arabinopyranoside
+Quercetin 3-glucosyl-(1->2)-galactoside 7-glucoside
+3,4'-Dimethyquercetin 7-[alpha-L-arabinofuranosyl-(1->6)-glucoside]
+5,4'-Dihydrox-3-methoxy-6,7-methylenedioxyflavone 4'-glucuronide
+Cucumerin B
+Cucumerin A
+6-C-beta-D-Glucopyranosyl-5,7,2',4',5'-pentahydroxyflavone
+Pelargonidin 3-O-[2-O-(6-(E)-feruloyl-beta-D-glucopyranosyl)-6-O-(E)-feruloyl-beta-D-glucopyranoside] 5-O-(beta-D-glucopyranoside)
+Isovitexin 6''-rhamnoside
+Isoorientin 2''-arabinoside
+2''-O-alpha-L-Rhamnosyl-6-C-fucosyl-luteolin
+2''-O-alpha-L-Rhamnosyl-6-C-quinovopyranosyl-luteolin
+2''-O-alpha-L-Rhamnosyl-6-C-fucosyl-3'-methoxyluteolin
+Isovitexin 7-(6'''-(E)-p-coumaroylglucoside)
+Isovitexin 7-(6'''-(E)-p-feruloylglucoside)
+Isovitexin 2''-(6'''-(E)-p-coumaroylglucoside)
+Isovitexin 2''-(6'''-(E)-p-coumaroylglucoside) 4'-glucoside
+Isovitexin 2''-(6'''-(E)-feruloylglucoside) 4'-glucoside
+Vitexin 6''-O-malonyl 2''-O-xyloside
+Isoorientin 7-O-(6'''-O-(E)-feruloyl)glucoside
+Isoscoparin 4'-glucoside
+Isosakuranetin 7-[arabinosyl-(1->6)-glucoside]
+5,6,7,4'-Tetrahydroxyflavanone 6,7-diglucoside
+5,7,3',4'-Tetrahydroxyflavanone 7-alpha-L-arabinofuranosyl-(1->6)-glucoside
+Xanthoangelol F
+Xanthoangelol G
+Xanthoangelol H
+Tinctormine
+2'-Hydroxy-4'-methoxydihydrochalcone
+2'-Methoxy-4'-hydroxydihydrochalcone
+Cyanidin 3-(3-glucosyl-6-malonylglucoside) 4'-glucoside
+Cyanidin 7-(3-glucosyl-6-malonylglucoside) 4'-glucoside
+Delphinidin 3-[6-(4-(Z)-p-coumarylrhamnosyl)glucoside] 5-glucoside
+Delphinidin 3-glucoside 5-(6''-malonylglucoside)
+Malvidin 3-(6-(4-feruloyl-alpha-rhamnosyl)-beta-glucoside) 5-beta-glucoside
+Pelargonidin 3-O-[2-O-(6-O-(E)-feruloyl-beta-D-glucopyranosyl)-beta-D-glucopyranoside] 5-O-(beta-D-glucopyranoside)
+Pelargonidin 3-O-[2-O-(6-(E)-caffeoyl-beta-D-glucopyranosyl)-6-O-(E)-caffeoyl-beta-D-glucopyranoside] 5-O-(beta-D-glucopyranoside)
+Pelargonidin 3-O-[2-O-(6-(E)-feruloyl-beta-D-glucopyranosyl)-6-O-(E)-caffeoyl-beta-D-glucopyranoside] 5-O-(beta-D-glucopyranoside)
+Pelargonidin 3-O-[2-O-beta-D-glucopyranosyl-6-O-(E)-p-coumaroyl-beta-D-glucopyranoside] 5-O-(beta-D-glucopyranoside)
+Pelargonidin 3-O-[2-O-(6-(E)-caffeoyl-beta-D-glucopyranosyl)-6-O-(E)-p-coumaroyl-beta-D-glucopyranoside] 5-O-(beta-D-glucopyranoside)
+Pelargonidin 3-O-[2-O-(6-(E)-caffeoyl-beta-D-glucopyranosyl)-6-O-(E)-feruloyl-beta-D-glucopyranoside] 5-O-(beta-D-glucopyranoside)
+Pelargonidin 3-O-[2-O-(6-(E)-feruloyl-beta-D-glucopyranosyl)-6-O-(E)-p-coumaroyl-beta-D-glucopyranoside] 5-O-(beta-D-glucopyranoside)
+Pelargonidin 3-O-[2-O-(2-(E)-feruloyl-beta-D-glucopyranosyl)-6-O-(E)-feruloyl-beta-D-glucopyranoside] 5-O-(beta-D-glucopyranoside)
+Petunidin 3-O-[6-O-(4-O-(E)-caffeoyl-O-alpha-rhamnopyranosyl)-beta-glucopyranoside]-5-O-beta-glucopyranoside
+Petunidin 3-O-[6-O-(4-O-(4-O-(beta-D-glucopyranosyl)-feruloyl)-alpha-L-rhamnopyranosyl)-beta-D-glucopyranoside]- 5-O-[beta-D-glucopyranoside]
+(Cyanidin 3-O-(3-O-acetyl-beta-glucoside) (kaempferol 3-O-(2-O-beta-glucosyl-beta-glucoside)-7-O-beta-glucosiduronic acid) malonate
+(Cyanidin 3-O-beta-glucoside)(kaempferol 3-O-(2-O-beta-glucosyl-beta-glucoside)-7-O-beta-glucosiduronic acid) malonate
+5-Carboxypyranopelargonidin 3-O-beta-glucopyranoside
+Epiafzelechin-(4alpha->8)-pelargonidin 3'-glucoside
+Catechin-(4alpha->8)-pelargonidin 3'-glucoside
+Afzelechin-(4alpha->8)-pelargonidin 3-O-beta-glucopyranoside
+3,3'-Dihydroxy-4,5-dimethoxybibenzyl
+3-Hydroxy-4-isopentenyl-5-methoxybibenzyl-2-carboxylic acid
+3-Hydroxy-5-methoxystilbene-2-carboxylic acid
+4-Methoxy-3,3',5-trihydroxybibenzyl
+5-Hydroxy-2,3,4-trimethoxy-9,10-dihydrophenanthrene
+3-Isopentadienyl-3',4,5'-trihydroxystilbene
+2'',6''-O-Diacetyloninin
+(3beta,4alpha,22beta)-22-[[2-O-(6-Deoxy-alpha-L-mannopyranosyl)-alpha-L-arabinopyranosyl]oxy]-23-hydroxyolean-12-en-3-yl O-6-deoxy-alpha-L-mannopyranosyl-(1->2)-O-beta-D-galactopyranosyl-(1->2)-beta-D-glucopyranosiduronic acid
+(3beta,4alpha,22beta)-22-[[2-O-(6-Deoxy-alpha-L-mannopyranosyl)-beta-D-glucopyranosyl]oxy]-23-hydroxyolean-12-en-3-yl O-6-deoxy-alpha-L-mannopyranosyl-(1->2)-O-beta-D-galactopyranosyl-(1->2)-beta-D-glucopyranosiduronic acid
+3-O-(beta-D-Glucopyranosyl)-soyasapogenol B
+(+)-2,3-Dihydro-9-hydroxy-2[1-(6-sinapinoyl)beta-D-glucosyloxy-1-methylethyl]-7H-furo[3,2-g][1]benzopyran-7-one
+7,4'-Dimethoxyflavone
+Delphinidin 3-(3''-p-coumaroylglucoside)
+Jacquinelin
+Crepidiaside B
+Apo-10'-zeaxanthinal
+Apo-12'-zeaxanthinal
+Apo-14'-zeaxanthinal
+Apo-15-zeaxanthinal
+Apo-13-zeaxanthinone
+Apo-11-zeaxanthinal
+Apo-9-zeaxanthinone
+Apo-12'-capsorubinal
+Apo-8'-capsorubinal
+9,9'-Diapo-10,9'-retro-carotene-9,9'-dione
+Deepoxyneoxanthin
+(3S,5R,8S)-5,8-Epoxy-5,8-dihydro-beta,beta-caroten-3-ol
+(5R,5'R,6S,6'S)-5,6:5',6'-Diepoxy-5,5',6,6'-tetrahydro-beta,beta-carotene
+(3S,5R,6S)-5,6-Epoxy-5,6-dihydro-3-hydroxy-8'-apo-beta,psi-carotenal
+Mycorradicin
+(9Z)-beta,beta-Carotene
+(13Z)-Lycopene
+(15Z)-Lycopene
+(8'R)-Neochrome
+Oxoxylopine
+7-Acetylintermedine
+Rutalexin
+1-(R)-Phenylethyl beta-D-glucopyranoside
+3beta-Chlorodehydrocostuslactone
+3-Methoxy-4-hydroxyphenylacetic acid
+5beta,19-Epoxy-19-methoxycucurbita-6,23(E)-diene-3beta,25-diol
+Basilimoside
+Basilol
+Carthamoside A1
+Chakaflavonoside A
+Chakanoside I
+Chakasaponin I
+Chakasaponin II
+Chakasaponin III
+Chakasaponin V
+Chakasaponin VI
+Cichorioside B
+Cichorioside C
+Cichorioside D
+Cichorioside F
+Cichorioside G
+Cichorioside H
+Cichorioside I
+Cichorioside J
+Cichorioside K
+Cichorioside L
+Cichorioside M
+Cichorioside N
+Diarctigenin
+Floratheasaponin B
+Floratheasaponin C
+Floratheasaponin D
+Floratheasaponin E
+Floratheasaponin F
+Floratheasaponin G
+Floratheasaponin H
+Floratheasaponin I
+Heptacosane
+Hexacosane
+Hippuric acid
+Isolappaol C
+Lappaol D
+Lappaol F
+Methyl ferulate
+Operculin VII
+Methyl p-coumarate
+Sonchuside A
+Theasaponin A1
+Theasaponin A2
+Theasaponin A3
+Theasaponin A4
+Theasaponin A5
+Theasaponin C1
+Theasaponin E3
+Theasaponin E4
+Theasaponin E5
+Theasaponin E6
+Theasaponin E7
+Theasaponin E8
+Theasaponin E9
+Theasaponin F1
+Theasaponin F2
+Theasaponin F3
+Theasaponin G1
+Theasaponin H1
+trans-p-Coumaroyl beta-D-glucopyranoside
+(2R)-Naringenin 8-C-alpha-L-rhamnopyranosyl-(1->2)-beta-D-glucopyranoside
+(2S)-Naringenin 8-C-alpha-L-rhamnopyranosyl-(1->2)-beta-D-glucopyranoside
+1-O-Feruloyl-beta-D-glucopyranose
+4-O-p-Coumaroylquinic acid
+Stigmast-7-en-3-ol
+ent-Cassa-12,15-diene
+Kuguacin A
+Kuguacin B
+Kuguacin C
+Kuguacin D
+Kuguacin E
+Oryzalexin B
+Oryzalexin C
+Oryzalexin D
+Oryzalexin F
+p-Hydroxymandelonitrile
+Rapalexin A
+Rapalexin B
+7alpha-Hydroxycampesterol
+9,10-Epoxy-18-hydroxy-octadecanoic acid
+beta-Gurjunene
+Foeniculoside X
+Foeniculoside XI
+Octacosane
+Piperchabamide D
+Progesterone
+Hentriacontan-8-one
+Nonacosan-8-one
+Tritriacontan-10-one
+Tritriacontan-12-one
+Tritriacontan-14-one
+Tritriacontan-16-one
+Tritriacontan-8-one
+Dotriacontan-14-ol
+Dotriacontan-15-ol
+Dotriacontan-16-ol
+Nonacosan-13-ol
+Nonacosan-14-ol
+4',5'-Dihydropsoralen
+[12]-Shogaol
+[4]-Gingerol
+[4]-Isogingerol
+[4]-Shogaol
+[7]-Gingerol
+[8]-Gingerdiol
+1-Dehydro-[10]-gingerdione
+1-Dehydro-[6]-gingerdione
+1-Dehydro-[8]-gingerdione
+Acetoxy-[10]-gingerol
+Dehydrogingerdione
+Diacetoxy-[4]-gingerdiol
+Hexahydrocurcumin
+Methyl [6]-paradol
+Methyl [8]-Shogaol
+Hulupinic acid
+Hulupone
+Humulinic acid A
+Humulinic acid B
+Humulinone
+Neosilyhermin A
+3-Hydroxy-3-(3,4-dihydroxy-4-methylpentanoyl)-5-(3-methylbutyl)-1,2,4-cyclopentanetrione
+Cudraflavone A
+Albanol B
+(å±)-3-Octanol
+Celerin
+Homoferreirin
+Kuwanon J
+Kuwanon Q
+Kuwanon R
+Kuwanon V
+Withaperuvin D
+Asparagoside G
+Sarsaparilloside
+Perulactone B
+(S)-Angelicain
+Kuwanon L
+Kuwanon K
+Ergostan-3-ol
+Chalinastanol
+(3beta,5alpha,24S)-Ergost-8(14)-en-3-ol
+Prenol
+24-Methylenepollinasterol
+3-Methyl-3-butenol
+Withaperuvin E
+Succinic acid
+Physalin B
+Plastoquinone 8
+Plastoquinone 9
+gamma-Pyrufuran
+Stigmasterol
+Isonuatigenin 3-[rhamnosyl-(1->2)-glucoside]
+Asticolorin A
+Asticolorin B
+Asticolorin C
+Adhulupone
+Adhumulinic acid
+Adhumulone
+22,23-Dihydroergosterol
+Adlupulone
+L-Leucine
+Isosojagol
+Indicolactone
+Physalolactone C
+Angelical
+Talaromycin A
+alpha-Cotonefuran
+Ascochitine
+(3xi,6E)-1,7-Diphenyl-6-hepten-3-ol
+Prehumulone
+Prehumulinic acid
+Glisoflavanone
+Jasmine ketolactone
+beta-Sitosterol acetate
+3,5-Dihydroxy-4-methoxybenzoic acid
+4'-Hydroxy-5,7-dimethoxyflavan
+Austalide H
+Austalide G
+Austalide I
+Austalide J
+Austalide K
+Austalide L
+8-Hydroxyquercetagetin
+Natsudaidain
+5-Hydroxy-3,3',4',6,7,8-hexamethoxyflavone
+Nevskin
+Galbanic acid
+Cyclonormammein
+Tricyclodehydroisohumulone
+Euglobal III
+L-Cystathionine
+Xanthine
+7-Methylxanthine
+Cytarabine
+D-Gluconic acid
+Calcium gluconate
+D-Mannitol
+Taxifolin 3-xyloside
+Riboflavine 5'-(dihydrogen phosphate)
+Papaverrubine B
+Glaudine
+N-Methyl-14-O-demethylepiporphyroxine
+Oxyacanthine
+Surugatoxin
+Isotetrandrine
+Venoterpine
+Norsanguinarine
+Arborinine
+(S)-Edulinine
+Edulitine
+Crustecdysone
+Erythratine
+Eupolauridine
+Murrayazolinine
+(S)-Isocorydine
+Piperolein A
+(E)-Piperolein A
+(E,E,E)-Sylvatine
+Piperlongine
+(E,E)-Piperlonguminine
+N-Isobutyl-2,4,8-decatrienamide
+Isogravacridonechlorine
+(E,E)-Lansamide I
+N-[2-Hydroxy-2-(4-hydroxyphenyl)ethyl]cinnamide
+Marmeline
+N-2-[4-(3,3-Dimethylallyloxy)phenyl]ethylcinnamide
+(E,E)-N-4-Methoxystyrylcinnamide
+gamma-Fagarine
+Fagopyrine
+(Z)-3-Oxo-2-(2-pentenyl)-1-cyclopenteneacetic acid
+(-)-Folicanthine
+Frangulanine
+Hovenine A
+(-)-Fumigaclavine B
+Fumigaclavine A
+Fumitremorgin B
+1-(2-Furanylmethyl)-1H-pyrrole
+Jubanine A
+Jubanine B
+Koenigine
+Koenigicine
+Koenine
+Koenimbine
+(R)-Laudanidine
+Laudanine
+Mukonicine
+(S)-Laudanosine
+Mukonidine
+Clausine L
+Mukonal
+Launobine
+Lansine
+Heptaphylline
+Laurotetanine
+Bicyclomahanimbicine
+Bicyclomahanimbine
+(å±)-Currayangine
+Murrayacinine
+(+)-Mahanimbicine
+Mahanimbinine
+5-Methoxycanthin-6-one
+Nigakinone
+Lagerstroemine
+2'-(E)-Feruloyl-3-(arabinosylxylose)
+5'-(E)-Feruloyl)-3-(2'-methylarabinosylxylose)
+5'-((Z)-Feruloyl) 3-(2'-methylarabinosylxylose)
+(2R,6S,7S,10Z)-beta-Santala-3(15),10-dien-12-ol
+Epi-beta-santalol
+Neotigogenin 3-[4''-glucosyl-6''-arabinosylglucoside]
+Sarsasapogenin 3-[4''-glucosyl-6''-arabinosylglucoside]
+Xanthohumol C
+eq-4''-Hydroxymaysin
+ax-4''-Hydroxymaysin
+Syzyginin A
+Syzyginin B
+ax-4''-Hydroxy-3-'-methoxymaysin
+6''-Caffeoylastragalin
+Piperundecalidine
+Girinimbine
+(E)-Herclavine
+Glucobrassicin
+Graveolinine
+Nornantenine
+Narceine
+Oxynarcotine
+Neopine
+(S)-Norisocorydine
+(-)-Norushinsunine
+Chikusetsusaponin VI
+Oripavine
+Limonene aldehyde
+Notoginsenoside D
+3-(3,4,5-Trimethoxyphenyl)propanoic acid
+Erysodine
+Erysopine
+Erysothiopine
+(+)-Erythraline
+(+)-Erysotrine
+(-)-Quebrachamine
+Quinine hydrochloride
+Quinine sulfate
+Quinine
+Isomurrayazoline
+(S)-Reticuline
+Rhazidigenine
+Rhazidigenine Nb-oxide
+Rhoeagenine
+(R)-Roemerine
+2',2'-Dimethyl(pyrano-5',6':3:4)-1,5-dihydroxy-6-methoxy-10-methylacridone
+Berberrubine
+Boldine
+(R)-Boschniakine
+Dumetorine
+Nigellicine
+Caffeine
+Anomurine
+Dehydrocarpaine I
+Carpaine
+Dehydrocarpaine II
+Pseudocarpaine
+(E)-Casimiroedine
+Turanose
+Herculin
+(R)-Dihydromaleimide
+Dihydromaleimide beta-D-glucoside
+Systemin
+Garciduol C
+(-)-Chimonanthine
+Calycanthidine
+meso-Chimonanthine
+Cinchonidine
+Cinchonine
+Hydrocinchonine
+6-Propyltridecane
+(S)-2-Propylpiperidine
+Coreximine
+(S)-Corydine
+10-Acetoxytoxol
+Muricinine
+Currayanine
+Cuscohygrine
+Daphniphylline
+Trieleostearin
+Glycerol tripunicate
+1-O-E-Cinnamoylglucose
+1-O-E-Cinnamoyl-(6-arabinosylglucose)
+1-O-E-Cinnamoylgentiobiose
+(å±)-2-Nonylheneicosanal
+5-Propyltridecane
+3,6,10-Trimethyltetradecane
+Cibulins
+3-Methyltetradecane
+2,2,3,4-Tetramethylpentane
+2,3,4-Trimethylhexane
+6-Ethyl-1-methyl-2,7,8-trioxabicyclo[3.2.1]octane
+(S)-Dicentrine
+Atherosperminine
+Dioscorine
+3,3,4-Trimethyldecane
+2,6,8-Trimethyldecane
+O-Isopentenylhalfordinol
+2,6,7-Trimethyldecane
+Harmaline
+Harmine
+Floribundine
+Thesinine
+2,3,4-Trimethyldecane
+2,2,9-Trimethyldecane
+Ficus Latex peptide 2
+2,2,8-Trimethyldecane
+Ficus Latex peptide 1
+2,2,4-Trimethyldecane
+Petasinoside
+(+)-Mahanimbine
+(å±)-Mahanimbine
+Mukeic acid
+Mukonine
+beta1-Chaconine
+Papaveraldine
+Paxilline
+Pelletierine
+(R)-Pelletierine
+(å±)-Pelletierine
+Methylisopelletierine
+Perlolyrine
+Petasitenine
+Neopetasitenine
+1-Methoxy-3-methylene-2-pentanone
+xi-2-Ethylheptanoic acid
+2-Methyl-4-pentenal
+Fragransol C
+2-Feruloyl-1-sinapoylgentiobiose
+1,2-Disinapoylgentiobiose
+2-Feruloyl-1,2'-disinapoylgentiobiose
+Torvoside G
+Physoperuvine
+Pipernonaline
+Piperolein B
+Piplartine
+Platydesminium
+O-Oxalylhomoserine
+Corchoroside B
+(R)-Pronuciferine
+6-Acetyl-1,2,3,4-tetrahydropyridine
+(S)-Actinidine
+N-(p-Hydroxyphenethyl)actinidine
+Actinodaphnine
+Anonaine
+N-Acetylanonaine
+Dehydroanonaine
+Arborine
+Arecaidine
+Arecoline
+Arenaine
+(+)-O-Methylarmepavine
+Asimilobine
+14,19-Didehydrocondyfolan
+N-Methylaspidospermatidine
+Aspidospermatine
+14,19-Dihydroaspidospermatine
+(+)-Aspidospermidine
+(-)-Aspidospermine
+Cavipetin B
+Cavipetin A
+Cavipetin E
+Cavipetin D
+Cavipetin C
+Ethyl (3R,5Z)-3-hydroxy-5-octenoate
+(3R,5Z)-5-Octene-1,3-diol
+3-Hydroxy-5Z-octenyl acetate
+Citroside A
+Citroside B
+Myrtine
+Epimyrtine
+(4RS,9alphaSR)-Octahydro-4-methyl-2H-quinolizin-2-one
+Maltoxazine
+Citrusinine II
+Citrusinine I
+Citracridone I
+(S)-Isoboldine
+(S)-Isowillardiine
+(E)-4-Methoxy-3,3',5,5'-tetrahydroxystilbene
+(Z)-Narceine imide
+N-Methoxy-1-vinyl-beta-carboline
+Brevianamide B
+Brevianamide A
+Roquefortine
+2-[4-(3,4-Methylenedioxyphenyl)butyl]-4(1H)-quinolinone
+Zapotidine
+Gravacridonechlorine
+2,4,8-Eicosatrienoic acid isobutylamide
+Trigonelline
+Myosmine
+(E)-Zeatin
+(E)-Ribosylzeatin
+N6-Prenyladenine
+Quebrachidine
+(+)-Quebrachidine
+Cepharadione B
+Kukoamine A
+4-(1-Guanidino)butyric acid
+L-N-Carboxymethylserine
+Simmondsin
+Manglupenone
+L-Tryptophan
+(å±)-Tryptophan
+L-2-Amino-3-(4-aminophenyl)propanoic acid
+3-Aminopropanoic acid
+N-(Carbomethoxyacetyl)-4-chloro-L-tryptophan
+N-(Carbethoxyacetyl)-4-chloro-L-tryptophan
+4-Chloro-L-tryptophan
+Arginine
+AK toxin I
+Substance P
+L-Hexahydro-3-imino-1,2,4-oxadiazepine-3-carboxylic acid
+D-Threitol
+Selenocysteine
+Panax ginseng Tetrapeptide
+(x)-p-Menth-1-en-4-yl 5-isopropyl-2-methylphenyl ether
+Armillaripin
+D-1-Amino-2-pyrrolidinecarboxylic acid
+L-2-Amino-5-(methylthio)pentanoic acid
+Merodesmosine
+2-Amino-3,4-dihydroxypentanedioic acid
+(å±)-Acetylhomoserine
+4-Amino-2-methylenebutanoic acid
+L-2-Amino-3-methylenehexanoic acid
+(2R,2'S)-Isobuteine
+Tricholomic acid
+Na-L-Aspartyl-L-phenylalanine
+Na-L-Glutamyl-L-aspartic acid
+Quercetin 3-glucosyl-(1->2)-galactosyl-(1->2)-glucoside
+Quercetin 3-(6''''-feruloylglucosyl)-(1->2)-galactosyl-(1->2)-glucoside
+Avenic acid A
+Lycoperdic acid
+N-Acetyl-L-cysteine
+L-Linalool 3-glucoside
+Ng-L-Glutamyl-L-aspartic acid
+Strobilurin A
+xi-Linalool 3-[arabinosyl-(1->6)-glucoside]
+xi-Linalool 3-[rhamnosyl-(1->6)-glucoside]
+28-Homobrassinolide
+Linalyl formate
+Linalyl propionate
+Linalyl isobutyrate
+Linalyl butyrate
+Linalyl isovalerate
+Linalyl hexanoate
+Linalyl caprylate
+Linalyl benzoate
+Linalyl cinnamate
+Linalyl anthranilate
+Loquatifolin A
+Simulansamide
+Emblicanin B
+Emblicanin A
+Rollinecin A
+Fragransol D
+Rollidecin A
+Okadaic acid
+Dinophysistoxin 1
+Dinophysistoxin 3
+35S-Methylokadaic acid 7-hexadecanoate
+Squamotacin
+Bullatetrocin
+Grifolin
+Phomopsin A
+Narasin
+20-Deoxynarasin
+20-Deoxy-17-epinarasin
+Atalantoflavone
+Cefapirin
+Rollinecin B
+Blasticidin S
+Rollidecin B
+Annonsilin A
+Macrophorin A
+Macrophorin C
+Macrophorin B
+Emitanins
+Cyclochlorotine
+Islanditoxin
+Hordatine B
+Hordatine B glucoside
+Hordatine A
+Hordatine A glucoside
+Hyperforin
+Erythroskyrin
+Mocimycin
+Goldinodox
+Artocarpetin A
+Natamycin
+Methyl tetradecanoate
+4-(4-Hydroxyphenyl)-2-butanone O-[6-galloylglucoside]
+1,4-Ipomeadiol
+4-Ipomeanol
+1-Ipomeanol
+Aflatoxin G
+Aflatoxin G2
+Aflatoxin G2a
+Aflatoxin GM1
+Aflatoxin GM2
+Aflatoxin M1
+Aflatoxin M2
+Agrocybin
+Cardanolmonoene
+Questiomycin A
+Ampicillin
+(3beta,4alpha,5alpha,23E)-4,14-Dimethylergosta-8,23-dien-3-ol
+(S)-2,3-Dihydro-6-hydroxy-5-(hydroxyacetyl)-2-isopropenylbenzofuran
+Artonol A
+Artonol B
+Artonol C
+Artonol E
+Glycerol 1,2-di-(9Z,11E,13Z-octadecatrienoate) 3-(8Z,11Z,13E-octadecatrienoate)
+Spirolide B
+Spirolide D
+Spirolide E
+Artonol D
+ACRL Toxin II
+Eugeniflorin D1
+Camelliasaponin A1
+Camelliasaponin A2
+Amoxycillin
+Spirolide F
+(2S,4R,6S)-2-[2-(4-Hydroxy-3-methoxyphenyl)ethyl]tetrahydro-6-(4,5-dihydroxy-3-methoxyphenyl)-2H-pyran-4-ol
+(2S,4R,6S)-2-[2-(4-Hydroxy-3-methoxyphenyl)ethyl]tetrahydro-6-(4,5-dihydroxy-3-methoxyphenyl)-2H-pyran-4-yl 4-acetate
+(2S,4R,6S)-2-[2-(4-hydroxy-3-methoxyphenyl)ethyl]tetrahydro-6-(4-hydroxy-3,5-dimethoxyphenyl)-2H-pyran-4-ol
+(2S,4S,6S)-2-[2-(4-Hydroxy-3-meyhoxyphenyl)ethyl]tetrahydro-6-(4,5-dihydroxy-3-methoxyphenyl)-2H-pyran-4-ol
+(2S,4S,6S)-2-[2-(4-Hydroxy-3-meyhoxyphenyl)ethyl]tetrahydro-6-(4,5-dihydroxy-3-methoxyphenyl)-2H-pyran-4-yl 4-acetate
+Bargustanine
+Cycloeucalanone
+Cycloeucalenone
+4-Epicycloeucalenone
+Cyclolaudenyl palmitate
+Notoginsenoside B
+Notoginsenoside C
+Majoroside F1
+Momoridcin
+Majoroside F2
+Nisin A
+Subtilin
+Petasinine
+Thiopeptin Ba
+Oxytetracycline
+1-Methyl-2-nonyl-4(1H)-quinolinone
+Virginiamycin
+Sativan
+Citreoviridin D
+Citreoviridin C
+2(3H)-Benzothiazolethione
+Rhizonin A
+Isovestitol
+Permetin A
+Janthitrem A
+Janthitrem B
+Janthitrem E
+Janthitrem F
+Janthitrem G
+Agrocin 84
+Alline
+Notoginsenoside A
+Notoginsenoside E
+Majoroside F4
+Cryptoxanthin 5,6:5',8'-diepoxide
+Cryptoxanthin epoxide
+Tangeritin
+2,5-Dimethylphenol
+Axillarin
+3,3',4',7-Tetrahydroxyflavan
+Neohesperidin dihydrochalcone
+Norartocarpetin
+Gnaphaliin
+5-Hydroxy-7,8-dimethoxyflavonol
+7,8-Dimethylisoscutellarein
+3,4',5,7-Tetrahydroxy-6-methoxyflavone
+Eupafolin
+Nepitrin
+5,6-Dihydro-4-methoxy-6-[2-(4-methoxyphenyl)ethyl]-2H-pyran-2-one
+Thamnosin
+Theaflavin 3,3'-digallate
+Rosmarinic acid
+Thelephoric acid
+Tricin 7-glucoside
+6''-(4-Hydroxycinnamoyl)astragalin
+gamma-Tocopherol
+d-Tocopherol
+epsilon-Tocopherol
+(R)-alpha-Tocotrienol
+Tocopheronic acid
+Fraxinol
+Tovophyllin B
+Tracheloside
+Safflomin A
+Tricin
+Tricin 5-glucoside
+Tricin 7-rhamnosylglucoside
+m-Trigallic acid
+7,11,12-Triacetoxycoumestan
+3-Hydroxy-8,9-dimethoxycoumestan
+3,8-Dihydroxy-9-methoxycoumestan
+Convallatoxoloside
+3',4,4'-Trihydroxypulvinone
+(E)-Resveratrol 3-glucoside
+(E)-Resveratrol 4'-glucoside
+(E)-Resveratrol
+Neoconvallatoxoloside
+(-)-3,4,9-Trimethoxypterocarpan
+Trisjuglone
+Solamargine
+Solasonine
+Swertiajaponin
+Sylvopinol
+(+)-Safrolglycol
+(å±)-Anisoxide
+Sanshodiol
+Occidentoside
+Schaftoside
+Scutellarein
+Tetramethylscutellarein
+epsilon,gamma-Caroten-3-ol
+1-Oxo-1H-2-benzopyran-3-carboxaldehyde
+Sennoside B
+Apigravin
+C.I. Natural Red 20
+(R)-Shinanolone
+Perillanin
+Rhamnazin
+Rhamnazin 3-glucoside
+Dillapional
+Silibinin
+Silidianin
+Silymonin
+(3S,3'R,4xi)-beta,beta-Carotene-3,3',4-triol
+Spinacetin
+Sterigmatocystin
+O-Methylsterigmatocystin
+Dihydrosterigmatocystin
+Dihydro-O-methylsterigmatocystin
+5,6-Dimethoxysterigmatocystin
+Edulisin II
+Edulisin I
+Enterolactone
+Suberenone
+Ugaxanthone
+Umbelliprenin
+(-)-Wikstromol
+5-[(4-Hydroxypheny)ethenyl]-2-(3-methyl-1-butenyl)-1,3-benzenediol
+4-(3-Methyl-1-butenyl)-3,3',4',5-tetrahydroxystilbene
+Edultin
+Vescalagin
+alpha-Viniferin
+epsilon-Viniferin
+1,5-Dihydroxy-3-methoxy-2-prenylxanthone
+1,7-Dihydroxy-3-methoxy-2-prenylxanthone
+Vitexin
+Vitexin 7-glucoside
+(S)-1',2'-Epoxy-1',2'-dihydro-b,y-carotene
+Xanthochymol
+Xanthochymuside
+Desmethylxanthohumol
+3,3',4',7-Tetramethylgossypetin
+1,10-Nonacosanediol
+1,9-Octacosanediol
+Orientin
+1,11-Triacontanediol
+Archangin
+7-Hydroxy-3,3',4',5,6-pentamethoxyflavone
+3'-Hydroxybiochanin A
+Osthol
+Otobanone
+Ovalitenone
+Morusinol
+Oxyisocyclointegrin
+(R)-Oxypeucedanin
+Bipindogulomethyloside
+Quercetagetin 7-glucoside
+Quercetin 7-glucoside
+Castaneanins
+Castacrenin A
+Castacrenin B
+5-Hydroxy-7,3',4'-trimethoxy-8-methylisoflavone 5-neohesperidoside
+Kaempferol 3-(6''-rhamnosylgalactoside) 7-rhamnoside
+Rubraflavone A
+Rubraflavone B
+Rubraflavone C
+Rubraflavone D
+Casuarinin
+Stachyurin
+Casuariin
+Quercetin 3-rutinoside
+Castacrenin C
+beta-Pyrufuran
+alpha-Pyrufuran
+Batatasin III
+Pinosylvin
+Bergapten
+Bergaptol
+(å±)-Tembamide
+Biochanin A 7-(6-malonylglucoside)
+Biochanin A 7-(6-methylmalonylglucoside)
+Bisisodiospyrin
+Blighinone
+delta-Amorphene
+Sclareapinone
+(Z)-3-(1-Butenyl)-1H-2-benzopyran-1-one
+(E)-3-(1-Butenyl)-1H-2-benzopyran-1-one
+Artemidinol
+Artemidiol
+Mammea B/BC cyclo E
+8,9-Dihydro-5-hydroxy-8-(1-hydroxy-1-methylethyl)-6-(1-oxobutyl)-4-propyl-2H-furo[2,3-h]-1-benzopyran-2-one
+(R)-Byakangelicin
+Caffeic acid
+trans-Caffeic acid
+1-O-Caffeoylquinic acid
+Cryptochlorogenic acid
+Neochlorogenic acid
+3-O-Caffeoylshikimic acid
+Cajaflavanone
+Calabaxanthone
+Demethylcalabaxanthone
+Carinol
+Carminic acid
+4'-Methylisoscutellarein
+Casticin
+Catechin
+Catechin 3-gallate
+4'-Methylcatechin
+4',7-Dimethylcatechin
+5,7,4'-Trimethylcatechin
+Epicatechin
+Epicatechin 3,5-digallate
+Chalepin acetate
+Chrysoeriol
+L-Chicoric acid
+1-(2,4,6-Trimethoxyphenyl)-1,3-butanedione
+Chlorogenic acid
+3-O-Feruloylquinic acid
+Chrysophanol
+Pulmatin
+Obtustyrene
+(-)-3,5-Cadinadiene
+(3beta,4alpha,5alpha,23E)-4,14-Dimethyl-9,19-cycloergost-23-en-3-ol
+trans-o-Coumaric acid
+m-Coumaric acid
+trans-m-Coumaric acid
+cis-p-Coumaric acid
+p-Coumaric acid
+trans-p-Coumaric acid
+Methyl trans-p-coumarate 4-glucoside
+Cabreuvin
+Cyanidin 3,5-diglucoside
+Diplosporin
+5-Deoxydiplosporin
+Cubebin
+Disodium 6-hydroxy-5-[(4-sulfophenyl)azo]-2-naphthalenesulfonate
+Cyanidin
+Cyanidin 3-glucoside
+Cycloheterophyllin
+Cyclointegrin
+Cyclomorusin
+Cyclomulberrin
+Daidzein
+6''-Acetyldaidzin
+(E)-Suberenol
+Dihydrosuberenol
+8-Hydroxy-7-methoxy-2H-1-benzopyran-2-one
+Delphinidin
+Delphinidin 3,5-diglucoside
+(S)-5,7-Dihydroxy-6,8-dimethylflavanone
+7-Hydroxy-5-methoxy-6,8-dimethylflavanone
+Demethoxysudachitin
+Sarmentosin
+5,7-Dimethoxyisoflavone
+5,7-Dihydroxyisoflavone
+Gartanin
+8-Desoxygartanin
+Neochlorogenin
+Dhelwangin
+Taxiphyllin
+Dhurrin
+3,4-Dicaffeoylquinic acid
+3,5-Di-O-caffeoylquinic acid
+4,5-Di-O-caffeoylquinic acid
+Vicenin 2
+Dihydrocubebin
+Cyclomammeisin
+Cyclomammein
+Furomammea G
+Mammea A/AB cyclo F
+Cycloneomammein
+MAB 4
+2,3-Dihydro-7-methoxy-2-(3-methoxy-4,5-methylenedioxyphenyl)-3-methyl-5-(1-propenyl)benzofuran
+(R)-3',7-Dihydroxy-2',4'-dimethoxyisoflavan
+(å±)-3',7-Dihydroxy-2',4'-dimethoxyisoflavan
+Sayanedin
+5,6-Dimethoxyflavone
+Trigraecum
+Isocarlinoside
+Isoschaftoside
+(E)-3,5-Dimethoxystilbene
+1,5-Dihydroxyxanthone
+Euxanthone
+Dillapiol
+2-Hydroxy-6,7-dimethoxybenzoxazole
+Betagarin
+Daphnetin
+Eruboside B
+8-Methoxygravelliferone
+Gravelliferone
+3-(1,1-Dimethyl-2-propenyl)-8-(3-methyl-2-butenyl)xanthyletin
+3-(1,1-Dimethylallyl)herniarin
+Torvonin A
+Capsianside B
+Isomorellic acid
+Aurantiumal
+Capsianoside IV
+Capsianoside I
+Capsianoside V
+Capsianoside D
+Capsianoside F
+trans-p-Methoxycinnamic acid
+11-Methoxyyangonin
+Heliocide H3
+Helipyrone
+(E,E)-Boviquinone 3
+Hemigossypolone
+Heraclenol
+(R)-Heraclenol
+Tambulin
+5,7,3'-Trihydroxy-4'-methoxyflavanone
+Hesperetin
+Hesperetin 7-glucoside
+Hesperetin 7-neohesperidoside
+Hesperidin
+Heterotropan
+1,26-Dicaffeoylhexacosanediol
+1,26-Hexacosanediol diferulate
+Methyl trans-p-methoxycinnamate
+Aflatoxin Q1
+11-Methoxynoryangonin
+Myrigalone E
+13alpha-Hydroxydolineone
+(S)-Pterosin A
+Pteroside A
+(R)-Pterosin B
+Pteroside B
+Pterosin O
+(S)-Pterosin B
+Ethyl trans-p-methoxycinnamate
+(10S,11S)-Pterosin C
+Acetylpterosin C
+(-)-trans-3,4-Dihydro-4,8-dihydroxy-3-methyl-1H-2-benzopyran-1-one
+3-(2,3-Dihydroxyphenyl)-2-propenoic acid
+Isoferulic acid
+11-Hydroxy-12-methoxydihydrokawain
+11,12-Dimethoxydihydrokawain
+2-(6-Hydroxy-2-methoxy-3,4-methylenedioxyphenyl)benzofuran
+8-Hydroxy-2-methoxy-6-methyl-1,4-naphthoquinone
+4-Acetyl-2-prenylphenol
+6alpha-Hydroxyphaseollin
+Demethoxyegonol
+Juglone
+(+)-12a-Hydroxypachyrrhizone
+beta-Hydrojuglone
+Hyperin
+Maltol
+Malvidin
+Malvidin 3-glucoside
+Mammea A/AB
+Mammea A/BA
+Mammea A/BB
+Isomammein
+Mammea B/AB
+Mammea B/BA
+Normammein
+Mammeigin
+Marmesin
+(R)-Marmin
+Cyanidin 3-sophoroside
+Citrusal
+Dracunculin
+Isoeugenol
+(Z)-Isoeugenol
+6-[(3,4-Methylenedioxy)phenyl]-3,3-dimethyl-1-hexene
+Dihydromethysticin
+Monascoflavin
+Moracin B
+Morellin
+Moreollin
+Morin
+Mulberranol
+Myricanol
+Myricanone
+5-Deoxymyricanone
+3-Methoxy-4,5-methylenedioxybenzoic acid
+Heneicosanoic acid
+[6]-Paradol
+Patuletin
+Corymboside
+2-(3,4-Dihydroxyphenyl)-5,6-dihydroxy-7-methoxy-4H-1-benzopyran-4-one
+Pedaliin
+Pelargonidin 3-glucoside
+Taxifolin
+Thymusin
+Nevadensin
+Gardenin B
+Peonidin
+Peonidin 3,5-diglucoside
+Petunidin
+Petunin
+3,4-Dihydro-8-hydroxy-3-(3-hydroxy-4-methoxyphenyl)-1H-2-benzopyran-1-one
+Pinocembrin
+(S)-Pinocembrin
+(+)-Pinoresinol
+(-)-Piperitol
+(2R,3S)-Piscidic acid
+Aureusin
+Porson
+Prudomestin
+Acacetin
+Acacetin 7-rutinoside
+Acerosin
+Cassiachromone
+Mammea E/BB
+Mammea E/BA
+6-Acetyl-2,2-dimethyl-2H-1-benzopyran
+6-Hydroxymusizin 8-O-b-D-glucopyranoside
+Scoparone
+Aesculetin
+Aesculin
+Cichoriin
+(-)-Epiafzelechin
+Afzelechin
+Afzelechin 7-apioside
+2-(4-Allyl-2,6-dimethoxyphenoxy)-1-(3,4-dimethoxyphenyl)-1-propanol
+2-(4-Allyl-2,6-dimethoxyphenoxy)-1-(3,4-methylenedioxyphenyl)-1-propanol
+1-(2H-1,3-Benzodioxol-5-yl)-2-[2,6-dimethoxy-4-(prop-2-en-1-yl)phenoxy]propyl acetate
+2-(4-Allyl-2,6-dimethoxyphenoxy)-1-(3,4,5-trimethoxyphenyl)-1-propanol
+Aloeemodin
+3,8-Dihydroxy-1-methylanthraquinone-2-carboxylic acid
+Alternariol
+Amentoflavone
+Bilobetin
+Americanin A
+trans-3,3',4',5,5',7-Hexahydroxyflavanone
+Sitoindoside I
+Anethole
+Feniculin
+(Z)-4-(1-Propenyl)phenol
+cis-Anethole
+2-Methoxy-9-phenyl-1H-phenalen-1-one
+Apigenin
+Sagequinone methide A
+4',5,7-Trimethylapigenin
+Apiin
+Apiumetin
+6,7-Dimethoxy-7-epirosmanol
+Archangelicin
+Archangelin
+Aromadendrin
+Artocarpesin
+Artocarpin
+Artoflavanone
+Aspalathin
+Asperxanthone
+(R)-Meranzin
+Auraptenol
+(S)-Auraptenol
+(R)-2-Hydroxy-2-methylbutanedioic acid
+Aurasperone C
+Aurasperone B
+Austdiol
+Austrobailignan 7
+Avicularin
+Kuwanon D
+Kuwanon E
+Kuwanon F
+Kaempferol 3-galactoside
+Rubroskyrin
+Deoxyrubroskyrin
+Dihydro-5-(2-octenyl)-2(3H)-furanone
+Citreoviridin A
+Rhamnetin
+Afrormosin 7-glucoside
+1-Hydroxy-3-methoxy-7-primeverosyloxyxanthone
+Isogentisin
+Gentioside
+1-Hydroxy-3,7-dimethoxyxanthone
+Phomarin
+2',4-Dihydroxy-4',6'-dimethoxychalcone
+Bis(methylthio) selenide
+Methyl (2-propenylthio) selenide
+Methyl 2-propenyl selenide
+Methyl methylthio selenide
+Methyl 1-propene-1-sulfenoselenoate
+Tetramethylisoscutellarein
+1-Acetoxy-4,6-tetradecadiene-8,10,12-triyne
+Rutaretin
+(S)-Rutaretin
+Leptophylloside
+Rutarin
+1,24-Tetracosanediol
+Majoroside F6
+Majoroside F3
+Illudin C2
+Illudin C3
+22,23-Dihydro-alpha-spinasterone
+Annomuricin-D-one
+(2E,6E)-1-Hydroxy-2,6,10-farnesatrien-9-one
+p-Menth-3-en-9-al
+Isocitral
+(3beta,4alpha,5alpha,24S)-4,14-Dimethylstigmasta-8,25-dien-3-ol
+(4R,5S,7R,11x)-11,12-Dihydroxy-1(10)-spirovetiven-2-one 12-glucoside
+Momordicilin
+Lucidenolactone
+(22E, 24x)-Ergosta-4,6,8,22-tetraen-3-one
+Eremopetasitenin A1
+Eremopetasitenin A2
+Eremopetasitenin B1
+Eremopetasitenin B2
+Notoginsenoside G
+3-(4-Methylphenyl)oxiranecarboxylic acid
+alpha,alpha-Dimethylanisalacetone
+1-(4-Methoxyphenyl)-1-penten-3-one
+1,4-Dimethylpyrrolo[1,2-a]pyrazine
+3,4-Dimethylpyrrolo[1,2-a]pyrazine
+1,3-Dimethylpyrrolo[1,2-a]pyrazine
+2,3-Secoporrigenin
+(6beta,25S)-2,3-Secospirostan-3,6-olid-2-oic acid
+2alpha-Hydroxyalantolactone
+2-Oxo-5,11(13)-eudesmadien-12,8-olide
+(3beta,5alpha)-4,4-Dimethylergosta-8,24(28)-dien-3-ol
+Cepagenin
+Alliospiroside C
+Alliospiroside D
+2-Hydroxyacorenone
+1-Hydroxyacorenone
+1-Hydroxyepiacorone
+Acorusdiol
+Acorusnol
+(R)-14-Methyloxacyclotetradecan-2-one
+1,3-Diacetoxy-4,6,12-tetradecatriene-8,10-diyne
+Glycerol tritetradecanoate
+Tetradecanoic acid
+1-Tetradecanol
+2-Tetradecanone
+Melissic acid A
+Tricosanoic acid
+Avocadienofuran
+Isoavocadienofuran
+Tridecanal
+2,4,6,8-Tridecatetrayne
+1-Tridecene
+(E)-2-Tridecene-4,6,8-triyn-1-ol
+Avocadenofuran
+Avocadynofuran
+Triglochinin
+9,10,13-Trihydroxystearic acid
+5,8,12-Trihydroxy-9-octadecenoic acid
+Glycerol tridodecanoate
+Glycerol trilinoleate
+5-Hexatriacontanone
+beta-Triticene
+Glycerol trioleate
+Glycerol trihexadecanoate
+Glycerol trioctadecanoate
+alpha-Triticene
+Squamocin L
+Gentiobiose
+Undecanal
+1-Undecanol
+2-Undecanol
+6-Undecanone
+Cystophorene
+Methyl 2-undecynoate
+Wyerone acid
+(2E,11Z)-Wyerone acid
+Wyerone
+Dihydrowyerone
+Wyerone epoxide
+Eicosanoic acid
+15,16-Epoxy-9,12-octadecadienoic acid
+(2E,4E)-Decadienoic isobutylamide
+2-Hexen-1-ol
+Filfiline
+Grewinol
+Neoherculin
+Nervonic acid
+5-Nonadecyl-1,3-benzenediol
+(3Z,6Z)-3,6-Nonadien-1-ol
+(Z)-6-Nonenal
+(Z)-3-Nonen-1-ol
+Obtusilactone A
+2-Octenal
+Octadecanoic acid
+Stearidonic acid
+Gamolenic acid
+Calendic acid
+Punicic acid
+Ethyl alpha-linolenate
+Linolenelaidic acid
+9-Octadecenal
+Oleic aldehyde
+7-Octadecenoic acid
+Elaidic acid
+Vaccenic acid
+(3xi,5Z)-1,5-Octadien-3-ol
+2,4,6-Octatriynoic acid
+2,4,6-Octatriyn-1-ol
+(E)-2-Octenal
+Glycerol 1,3-dihexadecanoate 2-(9Z-octadecenoate)
+Glycerol 1,3-dioctadecanoate 2-(9Z-octadecenoate)
+Glycerol 1-octadecanoate 2-(9Z-octadecenoate) 3-hexadecanoate
+8-Oxohexadecanoic acid
+9-Oxohexadecanoic acid
+8-Acetoxy-4-acoren-3-one
+Corchoionoside B
+Durupcoside B
+Durupcoside A
+11-Oxohexadecanoic acid
+9-Oxooctadecanoic acid
+10-Oxooctadecanoic acid
+11-Oxooctadecanoic acid
+6-Ketomyristic acid
+5-(8-Pentadecenyl)-1,3-benzenediol
+5-Hexyltetrahydro-2-oxo-3-furancarboxylic acid
+alpha-Carboxy-delta-decalactone
+2-Carboxy-5,7-dimethyl-4-octanolide
+2-Carboxy-4-dodecanolide
+5-(2-Methylpropyl)tetrahydro-2-oxo-3-furancarboxylic acid
+5-Pentyltetrahydro-2-oxo-3-furancarboxylic acid
