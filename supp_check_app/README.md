@@ -1,6 +1,6 @@
 # supp_check_app
 
-A mobile application to look up ingredients of fitness supplements.
+Mobile application to look up food ingredients.
 
 ## Getting Started
 
